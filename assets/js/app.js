@@ -7,8 +7,8 @@
 const state = {
   activeTab: 'dashboard',
   selectedKabupatenId: 1, // Default: Kota Lhokseumawe
-  selectedKecamatanId: 1, // Default: Banda Sakti
-  selectedKelurahanId: 1, // Default: Kampung Jawa Baru
+  selectedKecamatanId: 1838, // Default: Banda Sakti
+  selectedKelurahanId: 1423, // Default: Kampung Jawa Baru
   weatherData: null,
   historyData: null,
   wilayahTree: []
@@ -226,13 +226,20 @@ function populateKabupatenSelect() {
     if (kab.id == state.selectedKabupatenId) opt.selected = true;
     elements.selKabupaten.appendChild(opt);
   });
+  if (!state.wilayahTree.some(k => k.id == state.selectedKabupatenId) && state.wilayahTree.length > 0) {
+    state.selectedKabupatenId = state.wilayahTree[0].id;
+    elements.selKabupaten.value = state.selectedKabupatenId;
+  }
   populateKecamatanSelect();
 }
 
 function populateKecamatanSelect() {
   elements.selKecamatan.innerHTML = '<option value="">-- Pilih Kecamatan --</option>';
   const kab = state.wilayahTree.find(k => k.id == state.selectedKabupatenId);
-  if (kab && kab.kecamatan) {
+  if (kab && kab.kecamatan && kab.kecamatan.length > 0) {
+    if (!kab.kecamatan.some(c => c.id == state.selectedKecamatanId)) {
+      state.selectedKecamatanId = kab.kecamatan[0].id;
+    }
     kab.kecamatan.forEach(kec => {
       const opt = document.createElement('option');
       opt.value = kec.id;
@@ -240,6 +247,7 @@ function populateKecamatanSelect() {
       if (kec.id == state.selectedKecamatanId) opt.selected = true;
       elements.selKecamatan.appendChild(opt);
     });
+    elements.selKecamatan.value = state.selectedKecamatanId;
   }
   populateKelurahanSelect();
 }
@@ -249,7 +257,10 @@ function populateKelurahanSelect() {
   const kab = state.wilayahTree.find(k => k.id == state.selectedKabupatenId);
   if (kab && kab.kecamatan) {
     const kec = kab.kecamatan.find(c => c.id == state.selectedKecamatanId);
-    if (kec && kec.kelurahan) {
+    if (kec && kec.kelurahan && kec.kelurahan.length > 0) {
+      if (!kec.kelurahan.some(l => l.id == state.selectedKelurahanId)) {
+        state.selectedKelurahanId = kec.kelurahan[0].id;
+      }
       kec.kelurahan.forEach(kel => {
         const opt = document.createElement('option');
         opt.value = kel.id;
@@ -257,9 +268,12 @@ function populateKelurahanSelect() {
         if (kel.id == state.selectedKelurahanId) opt.selected = true;
         elements.selKelurahan.appendChild(opt);
       });
+      elements.selKelurahan.value = state.selectedKelurahanId;
+      loadWeatherData(state.selectedKelurahanId);
     }
   }
 }
+
 
 /* =====================================================================
    FETCH WEATHER DATA (BMKG + DB Integration)

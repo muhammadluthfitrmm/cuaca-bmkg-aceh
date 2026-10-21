@@ -1,0 +1,5449 @@
+[
+    {
+        "id": 5,
+        "nama": "Kabupaten Aceh Barat",
+        "kecamatan": [
+            {
+                "id": 506,
+                "nama": "Arongan Lambalek",
+                "kelurahan": [
+                    {
+                        "id": 121,
+                        "nama": "Drien Rampak",
+                        "kode_adm4": "11.05.06.2001"
+                    },
+                    {
+                        "id": 122,
+                        "nama": "Keude Arongan",
+                        "kode_adm4": "11.05.06.2002"
+                    },
+                    {
+                        "id": 123,
+                        "nama": "Pelea",
+                        "kode_adm4": "11.05.06.2003"
+                    },
+                    {
+                        "id": 124,
+                        "nama": "Suak Bidok",
+                        "kode_adm4": "11.05.06.2004"
+                    }
+                ]
+            },
+            {
+                "id": 505,
+                "nama": "Bubon",
+                "kelurahan": [
+                    {
+                        "id": 117,
+                        "nama": "Kuala Bhee",
+                        "kode_adm4": "11.05.05.2001"
+                    },
+                    {
+                        "id": 118,
+                        "nama": "Layeun",
+                        "kode_adm4": "11.05.05.2002"
+                    },
+                    {
+                        "id": 119,
+                        "nama": "Peulanteu",
+                        "kode_adm4": "11.05.05.2003"
+                    },
+                    {
+                        "id": 120,
+                        "nama": "Rambong",
+                        "kode_adm4": "11.05.05.2004"
+                    }
+                ]
+            },
+            {
+                "id": 501,
+                "nama": "Johan Pahlawan",
+                "kelurahan": [
+                    {
+                        "id": 81,
+                        "nama": "Drien Rampak",
+                        "kode_adm4": "11.05.01.2003"
+                    },
+                    {
+                        "id": 92,
+                        "nama": "Gampa",
+                        "kode_adm4": "11.05.01.2015"
+                    },
+                    {
+                        "id": 88,
+                        "nama": "Kampung Belakang",
+                        "kode_adm4": "11.05.01.2010"
+                    },
+                    {
+                        "id": 84,
+                        "nama": "Kuta Padang",
+                        "kode_adm4": "11.05.01.2006"
+                    },
+                    {
+                        "id": 80,
+                        "nama": "Lapang",
+                        "kode_adm4": "11.05.01.2002"
+                    },
+                    {
+                        "id": 93,
+                        "nama": "Leuhan",
+                        "kode_adm4": "11.05.01.2016"
+                    },
+                    {
+                        "id": 83,
+                        "nama": "Pasar Aceh",
+                        "kode_adm4": "11.05.01.2005"
+                    },
+                    {
+                        "id": 94,
+                        "nama": "Pasi Pinang",
+                        "kode_adm4": "11.05.01.2018"
+                    },
+                    {
+                        "id": 85,
+                        "nama": "Rundeng",
+                        "kode_adm4": "11.05.01.2007"
+                    },
+                    {
+                        "id": 82,
+                        "nama": "Seuneubok",
+                        "kode_adm4": "11.05.01.2004"
+                    },
+                    {
+                        "id": 87,
+                        "nama": "Suak Indrapuri",
+                        "kode_adm4": "11.05.01.2009"
+                    },
+                    {
+                        "id": 91,
+                        "nama": "Suak Nie",
+                        "kode_adm4": "11.05.01.2013"
+                    },
+                    {
+                        "id": 89,
+                        "nama": "Suak Raya",
+                        "kode_adm4": "11.05.01.2011"
+                    },
+                    {
+                        "id": 90,
+                        "nama": "Suak Ribee",
+                        "kode_adm4": "11.05.01.2012"
+                    },
+                    {
+                        "id": 79,
+                        "nama": "Ujong Baroh",
+                        "kode_adm4": "11.05.01.2001"
+                    },
+                    {
+                        "id": 86,
+                        "nama": "Ujong Kalak",
+                        "kode_adm4": "11.05.01.2008"
+                    }
+                ]
+            },
+            {
+                "id": 502,
+                "nama": "Kaway XVI",
+                "kelurahan": [
+                    {
+                        "id": 102,
+                        "nama": "Beureugang",
+                        "kode_adm4": "11.05.02.2009"
+                    },
+                    {
+                        "id": 95,
+                        "nama": "Keude Aron",
+                        "kode_adm4": "11.05.02.2001"
+                    },
+                    {
+                        "id": 101,
+                        "nama": "Marek",
+                        "kode_adm4": "11.05.02.2007"
+                    },
+                    {
+                        "id": 97,
+                        "nama": "Meunasah Buloh",
+                        "kode_adm4": "11.05.02.2003"
+                    },
+                    {
+                        "id": 99,
+                        "nama": "Meunasah Rambot",
+                        "kode_adm4": "11.05.02.2005"
+                    },
+                    {
+                        "id": 98,
+                        "nama": "Meunasah Rayeuk",
+                        "kode_adm4": "11.05.02.2004"
+                    },
+                    {
+                        "id": 100,
+                        "nama": "Pasi Jambu",
+                        "kode_adm4": "11.05.02.2006"
+                    },
+                    {
+                        "id": 96,
+                        "nama": "Peunia",
+                        "kode_adm4": "11.05.02.2002"
+                    }
+                ]
+            },
+            {
+                "id": 503,
+                "nama": "Meureubo",
+                "kelurahan": [
+                    {
+                        "id": 108,
+                        "nama": "Gunong Kleng",
+                        "kode_adm4": "11.05.03.2006"
+                    },
+                    {
+                        "id": 106,
+                        "nama": "Langung",
+                        "kode_adm4": "11.05.03.2004"
+                    },
+                    {
+                        "id": 103,
+                        "nama": "Meureubo",
+                        "kode_adm4": "11.05.03.2001"
+                    },
+                    {
+                        "id": 111,
+                        "nama": "Paya Peunaga",
+                        "kode_adm4": "11.05.03.2014"
+                    },
+                    {
+                        "id": 104,
+                        "nama": "Peunaga Cut",
+                        "kode_adm4": "11.05.03.2002"
+                    },
+                    {
+                        "id": 110,
+                        "nama": "Peunaga Pasi",
+                        "kode_adm4": "11.05.03.2008"
+                    },
+                    {
+                        "id": 105,
+                        "nama": "Peunaga Rayeuk",
+                        "kode_adm4": "11.05.03.2003"
+                    },
+                    {
+                        "id": 107,
+                        "nama": "Ranto Panyang",
+                        "kode_adm4": "11.05.03.2005"
+                    },
+                    {
+                        "id": 109,
+                        "nama": "Ujong Tanoh Darat",
+                        "kode_adm4": "11.05.03.2007"
+                    }
+                ]
+            },
+            {
+                "id": 511,
+                "nama": "Pante Ceureumen",
+                "kelurahan": [
+                    {
+                        "id": 135,
+                        "nama": "Manjeng",
+                        "kode_adm4": "11.05.11.2002"
+                    },
+                    {
+                        "id": 134,
+                        "nama": "Pante Ceureumen",
+                        "kode_adm4": "11.05.11.2001"
+                    }
+                ]
+            },
+            {
+                "id": 512,
+                "nama": "Panton Reu",
+                "kelurahan": [
+                    {
+                        "id": 137,
+                        "nama": "Baro Paya",
+                        "kode_adm4": "11.05.12.2002"
+                    },
+                    {
+                        "id": 136,
+                        "nama": "Meutulang",
+                        "kode_adm4": "11.05.12.2001"
+                    }
+                ]
+            },
+            {
+                "id": 504,
+                "nama": "Samatiga",
+                "kelurahan": [
+                    {
+                        "id": 113,
+                        "nama": "Cot Seumeureung",
+                        "kode_adm4": "11.05.04.2002"
+                    },
+                    {
+                        "id": 115,
+                        "nama": "Pinem",
+                        "kode_adm4": "11.05.04.2004"
+                    },
+                    {
+                        "id": 114,
+                        "nama": "Reusam",
+                        "kode_adm4": "11.05.04.2003"
+                    },
+                    {
+                        "id": 116,
+                        "nama": "Suak Pandan",
+                        "kode_adm4": "11.05.04.2006"
+                    },
+                    {
+                        "id": 112,
+                        "nama": "Suak Timah",
+                        "kode_adm4": "11.05.04.2001"
+                    }
+                ]
+            },
+            {
+                "id": 510,
+                "nama": "Sungai Mas",
+                "kelurahan": [
+                    {
+                        "id": 133,
+                        "nama": "Geunjang",
+                        "kode_adm4": "11.05.10.2002"
+                    },
+                    {
+                        "id": 132,
+                        "nama": "Tutut",
+                        "kode_adm4": "11.05.10.2001"
+                    }
+                ]
+            },
+            {
+                "id": 507,
+                "nama": "Woyla",
+                "kelurahan": [
+                    {
+                        "id": 126,
+                        "nama": "Ie Itam Baroh",
+                        "kode_adm4": "11.05.07.2002"
+                    },
+                    {
+                        "id": 125,
+                        "nama": "Kuala Bhee",
+                        "kode_adm4": "11.05.07.2001"
+                    },
+                    {
+                        "id": 127,
+                        "nama": "Petinggi",
+                        "kode_adm4": "11.05.07.2003"
+                    }
+                ]
+            },
+            {
+                "id": 508,
+                "nama": "Woyla Barat",
+                "kelurahan": [
+                    {
+                        "id": 129,
+                        "nama": "Lhok Malee",
+                        "kode_adm4": "11.05.08.2002"
+                    },
+                    {
+                        "id": 128,
+                        "nama": "Pasi Mali",
+                        "kode_adm4": "11.05.08.2001"
+                    }
+                ]
+            },
+            {
+                "id": 509,
+                "nama": "Woyla Timur",
+                "kelurahan": [
+                    {
+                        "id": 131,
+                        "nama": "Rambong",
+                        "kode_adm4": "11.05.09.2002"
+                    },
+                    {
+                        "id": 130,
+                        "nama": "Tangkeh",
+                        "kode_adm4": "11.05.09.2001"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nama": "Kabupaten Aceh Besar",
+        "kecamatan": [
+            {
+                "id": 611,
+                "nama": "Baitussalam",
+                "kelurahan": [
+                    {
+                        "id": 185,
+                        "nama": "Caringan",
+                        "kode_adm4": "11.06.20.2001"
+                    },
+                    {
+                        "id": 186,
+                        "nama": "Kajhu",
+                        "kode_adm4": "11.06.20.2002"
+                    },
+                    {
+                        "id": 187,
+                        "nama": "Lampineung",
+                        "kode_adm4": "11.06.20.2003"
+                    },
+                    {
+                        "id": 188,
+                        "nama": "Miruk Lamreudeup",
+                        "kode_adm4": "11.06.20.2004"
+                    }
+                ]
+            },
+            {
+                "id": 612,
+                "nama": "Blang Bintang",
+                "kelurahan": []
+            },
+            {
+                "id": 602,
+                "nama": "Darul Imarah",
+                "kelurahan": [
+                    {
+                        "id": 152,
+                        "nama": "Garot",
+                        "kode_adm4": "11.06.07.2005"
+                    },
+                    {
+                        "id": 151,
+                        "nama": "Gue Gajah",
+                        "kode_adm4": "11.06.07.2004"
+                    },
+                    {
+                        "id": 155,
+                        "nama": "Karueng",
+                        "kode_adm4": "11.06.07.2008"
+                    },
+                    {
+                        "id": 148,
+                        "nama": "Lampeuneurut Gampong",
+                        "kode_adm4": "11.06.07.2001"
+                    },
+                    {
+                        "id": 149,
+                        "nama": "Lampeuneurut Ulee Lhat",
+                        "kode_adm4": "11.06.07.2002"
+                    },
+                    {
+                        "id": 157,
+                        "nama": "Lamreung",
+                        "kode_adm4": "11.06.07.2010"
+                    },
+                    {
+                        "id": 153,
+                        "nama": "Lheu Blang",
+                        "kode_adm4": "11.06.07.2006"
+                    },
+                    {
+                        "id": 156,
+                        "nama": "Pasieu Peukan",
+                        "kode_adm4": "11.06.07.2009"
+                    },
+                    {
+                        "id": 150,
+                        "nama": "Punie",
+                        "kode_adm4": "11.06.07.2003"
+                    },
+                    {
+                        "id": 154,
+                        "nama": "Ulee Lueng",
+                        "kode_adm4": "11.06.07.2007"
+                    }
+                ]
+            },
+            {
+                "id": 610,
+                "nama": "Darussalam",
+                "kelurahan": [
+                    {
+                        "id": 184,
+                        "nama": "Gampong Blang",
+                        "kode_adm4": "11.06.12.2004"
+                    },
+                    {
+                        "id": 183,
+                        "nama": "Lamduro",
+                        "kode_adm4": "11.06.12.2003"
+                    },
+                    {
+                        "id": 181,
+                        "nama": "Limpok",
+                        "kode_adm4": "11.06.12.2001"
+                    },
+                    {
+                        "id": 182,
+                        "nama": "Tungkop",
+                        "kode_adm4": "11.06.12.2002"
+                    }
+                ]
+            },
+            {
+                "id": 606,
+                "nama": "Indrapuri",
+                "kelurahan": [
+                    {
+                        "id": 173,
+                        "nama": "Indrapuri",
+                        "kode_adm4": "11.06.03.2001"
+                    },
+                    {
+                        "id": 174,
+                        "nama": "Pasie Indrapuri",
+                        "kode_adm4": "11.06.03.2002"
+                    },
+                    {
+                        "id": 175,
+                        "nama": "Sinyeu",
+                        "kode_adm4": "11.06.03.2003"
+                    }
+                ]
+            },
+            {
+                "id": 601,
+                "nama": "Ingin Jaya",
+                "kelurahan": [
+                    {
+                        "id": 144,
+                        "nama": "Ateuk Angok",
+                        "kode_adm4": "11.06.11.2007"
+                    },
+                    {
+                        "id": 139,
+                        "nama": "Gani",
+                        "kode_adm4": "11.06.11.2002"
+                    },
+                    {
+                        "id": 138,
+                        "nama": "Lambaro",
+                        "kode_adm4": "11.06.11.2001"
+                    },
+                    {
+                        "id": 146,
+                        "nama": "Lubok Sukon",
+                        "kode_adm4": "11.06.11.2012"
+                    },
+                    {
+                        "id": 141,
+                        "nama": "Meunasah Deyah",
+                        "kode_adm4": "11.06.11.2004"
+                    },
+                    {
+                        "id": 143,
+                        "nama": "Meunasah Kalut",
+                        "kode_adm4": "11.06.11.2006"
+                    },
+                    {
+                        "id": 140,
+                        "nama": "Meunasah Manyang",
+                        "kode_adm4": "11.06.11.2003"
+                    },
+                    {
+                        "id": 142,
+                        "nama": "Meunasah Tutong",
+                        "kode_adm4": "11.06.11.2005"
+                    },
+                    {
+                        "id": 145,
+                        "nama": "Punge Jurong",
+                        "kode_adm4": "11.06.11.2008"
+                    },
+                    {
+                        "id": 147,
+                        "nama": "Siron",
+                        "kode_adm4": "11.06.11.2015"
+                    }
+                ]
+            },
+            {
+                "id": 609,
+                "nama": "Krueng Barona Jaya",
+                "kelurahan": [
+                    {
+                        "id": 176,
+                        "nama": "Cotom",
+                        "kode_adm4": "11.06.21.2001"
+                    },
+                    {
+                        "id": 177,
+                        "nama": "Gla Meunasah Baro",
+                        "kode_adm4": "11.06.21.2002"
+                    },
+                    {
+                        "id": 178,
+                        "nama": "Lueng Ie",
+                        "kode_adm4": "11.06.21.2003"
+                    },
+                    {
+                        "id": 179,
+                        "nama": "Meunasah Intan",
+                        "kode_adm4": "11.06.21.2004"
+                    },
+                    {
+                        "id": 180,
+                        "nama": "Meunasah Manyang",
+                        "kode_adm4": "11.06.21.2005"
+                    }
+                ]
+            },
+            {
+                "id": 608,
+                "nama": "Kuta Baro",
+                "kelurahan": []
+            },
+            {
+                "id": 616,
+                "nama": "Kuta Cot Glie",
+                "kelurahan": []
+            },
+            {
+                "id": 615,
+                "nama": "Leupung",
+                "kelurahan": []
+            },
+            {
+                "id": 603,
+                "nama": "Lhoknga",
+                "kelurahan": [
+                    {
+                        "id": 162,
+                        "nama": "Kueh",
+                        "kode_adm4": "11.06.02.2005"
+                    },
+                    {
+                        "id": 160,
+                        "nama": "Lamkruet",
+                        "kode_adm4": "11.06.02.2003"
+                    },
+                    {
+                        "id": 158,
+                        "nama": "Lhap",
+                        "kode_adm4": "11.06.02.2001"
+                    },
+                    {
+                        "id": 159,
+                        "nama": "Mon Ikeun",
+                        "kode_adm4": "11.06.02.2002"
+                    },
+                    {
+                        "id": 161,
+                        "nama": "Naga Umbang",
+                        "kode_adm4": "11.06.02.2004"
+                    },
+                    {
+                        "id": 163,
+                        "nama": "Tanjong",
+                        "kode_adm4": "11.06.02.2006"
+                    }
+                ]
+            },
+            {
+                "id": 614,
+                "nama": "Lhoong",
+                "kelurahan": []
+            },
+            {
+                "id": 613,
+                "nama": "Mesjid Raya",
+                "kelurahan": []
+            },
+            {
+                "id": 605,
+                "nama": "Montasik",
+                "kelurahan": [
+                    {
+                        "id": 171,
+                        "nama": "Bukit Baro",
+                        "kode_adm4": "11.06.05.2003"
+                    },
+                    {
+                        "id": 170,
+                        "nama": "Montasik",
+                        "kode_adm4": "11.06.05.2002"
+                    },
+                    {
+                        "id": 172,
+                        "nama": "Piyeung",
+                        "kode_adm4": "11.06.05.2004"
+                    }
+                ]
+            },
+            {
+                "id": 604,
+                "nama": "Peukan Bada",
+                "kelurahan": [
+                    {
+                        "id": 164,
+                        "nama": "Ajuen",
+                        "kode_adm4": "11.06.08.2001"
+                    },
+                    {
+                        "id": 166,
+                        "nama": "Lam Awe",
+                        "kode_adm4": "11.06.08.2003"
+                    },
+                    {
+                        "id": 165,
+                        "nama": "Lam Hasan",
+                        "kode_adm4": "11.06.08.2002"
+                    },
+                    {
+                        "id": 167,
+                        "nama": "Lamgiring",
+                        "kode_adm4": "11.06.08.2004"
+                    },
+                    {
+                        "id": 168,
+                        "nama": "Rima Jeumpa",
+                        "kode_adm4": "11.06.08.2005"
+                    },
+                    {
+                        "id": 169,
+                        "nama": "Rima Keuneurom",
+                        "kode_adm4": "11.06.08.2006"
+                    }
+                ]
+            },
+            {
+                "id": 617,
+                "nama": "Pulo Aceh",
+                "kelurahan": []
+            },
+            {
+                "id": 607,
+                "nama": "Seulimeum",
+                "kelurahan": []
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "nama": "Kabupaten Aceh Jaya",
+        "kecamatan": [
+            {
+                "id": 1407,
+                "nama": "Darul Hikmah",
+                "kelurahan": [
+                    {
+                        "id": 222,
+                        "nama": "Lam Teungoh",
+                        "kode_adm4": "11.14.07.2003"
+                    },
+                    {
+                        "id": 220,
+                        "nama": "Pajar",
+                        "kode_adm4": "11.14.07.2001"
+                    },
+                    {
+                        "id": 221,
+                        "nama": "Ujong Rimba",
+                        "kode_adm4": "11.14.07.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1409,
+                "nama": "Indra Jaya",
+                "kelurahan": [
+                    {
+                        "id": 226,
+                        "nama": "Kuala Unga",
+                        "kode_adm4": "11.14.09.2001"
+                    },
+                    {
+                        "id": 228,
+                        "nama": "Meunasah Rayeuk",
+                        "kode_adm4": "11.14.09.2003"
+                    },
+                    {
+                        "id": 227,
+                        "nama": "Ujong Muloh",
+                        "kode_adm4": "11.14.09.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1402,
+                "nama": "Jaya",
+                "kelurahan": [
+                    {
+                        "id": 197,
+                        "nama": "Lamno",
+                        "kode_adm4": "11.14.03.2001"
+                    },
+                    {
+                        "id": 202,
+                        "nama": "Mareu",
+                        "kode_adm4": "11.14.03.2006"
+                    },
+                    {
+                        "id": 199,
+                        "nama": "Meunasah Weh",
+                        "kode_adm4": "11.14.03.2003"
+                    },
+                    {
+                        "id": 201,
+                        "nama": "Pante Keutapang",
+                        "kode_adm4": "11.14.03.2005"
+                    },
+                    {
+                        "id": 198,
+                        "nama": "Pasie Lamgarot",
+                        "kode_adm4": "11.14.03.2002"
+                    },
+                    {
+                        "id": 200,
+                        "nama": "Suka Mulri",
+                        "kode_adm4": "11.14.03.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1401,
+                "nama": "Krueng Sabee",
+                "kelurahan": [
+                    {
+                        "id": 189,
+                        "nama": "Calang",
+                        "kode_adm4": "11.14.02.2001"
+                    },
+                    {
+                        "id": 192,
+                        "nama": "Darat",
+                        "kode_adm4": "11.14.02.2004"
+                    },
+                    {
+                        "id": 191,
+                        "nama": "Dusun Tinggi",
+                        "kode_adm4": "11.14.02.2003"
+                    },
+                    {
+                        "id": 196,
+                        "nama": "Kabong",
+                        "kode_adm4": "11.14.02.2008"
+                    },
+                    {
+                        "id": 190,
+                        "nama": "Keude Krueng Sabee",
+                        "kode_adm4": "11.14.02.2002"
+                    },
+                    {
+                        "id": 195,
+                        "nama": "Mon Mata",
+                        "kode_adm4": "11.14.02.2007"
+                    },
+                    {
+                        "id": 194,
+                        "nama": "Padang Datar",
+                        "kode_adm4": "11.14.02.2006"
+                    },
+                    {
+                        "id": 193,
+                        "nama": "Sentosa",
+                        "kode_adm4": "11.14.02.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1405,
+                "nama": "Panga",
+                "kelurahan": [
+                    {
+                        "id": 215,
+                        "nama": "Gle Putoh",
+                        "kode_adm4": "11.14.05.2004"
+                    },
+                    {
+                        "id": 212,
+                        "nama": "Keude Panga",
+                        "kode_adm4": "11.14.05.2001"
+                    },
+                    {
+                        "id": 213,
+                        "nama": "Kuta Tuha",
+                        "kode_adm4": "11.14.05.2002"
+                    },
+                    {
+                        "id": 214,
+                        "nama": "Tuwi Kareung",
+                        "kode_adm4": "11.14.05.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1408,
+                "nama": "Pasie Raya",
+                "kelurahan": [
+                    {
+                        "id": 225,
+                        "nama": "Ceuraceu",
+                        "kode_adm4": "11.14.08.2003"
+                    },
+                    {
+                        "id": 224,
+                        "nama": "Pasie Teubee",
+                        "kode_adm4": "11.14.08.2002"
+                    },
+                    {
+                        "id": 223,
+                        "nama": "Tuwi Peuriya",
+                        "kode_adm4": "11.14.08.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1404,
+                "nama": "Sampoiniet",
+                "kelurahan": [
+                    {
+                        "id": 211,
+                        "nama": "Kuala Bakong",
+                        "kode_adm4": "11.14.04.2004"
+                    },
+                    {
+                        "id": 208,
+                        "nama": "Lhok Kruet",
+                        "kode_adm4": "11.14.04.2001"
+                    },
+                    {
+                        "id": 209,
+                        "nama": "Meulaboh",
+                        "kode_adm4": "11.14.04.2002"
+                    },
+                    {
+                        "id": 210,
+                        "nama": "Seinggajah",
+                        "kode_adm4": "11.14.04.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1406,
+                "nama": "Setia Bakti",
+                "kelurahan": [
+                    {
+                        "id": 217,
+                        "nama": "Gampong Baro",
+                        "kode_adm4": "11.14.06.2002"
+                    },
+                    {
+                        "id": 216,
+                        "nama": "Lageun",
+                        "kode_adm4": "11.14.06.2001"
+                    },
+                    {
+                        "id": 218,
+                        "nama": "Pante Keutapang",
+                        "kode_adm4": "11.14.06.2003"
+                    },
+                    {
+                        "id": 219,
+                        "nama": "Paya Laot",
+                        "kode_adm4": "11.14.06.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1403,
+                "nama": "Teunom",
+                "kelurahan": [
+                    {
+                        "id": 203,
+                        "nama": "Keude Teunom",
+                        "kode_adm4": "11.14.01.2001"
+                    },
+                    {
+                        "id": 207,
+                        "nama": "Pasi Geulima",
+                        "kode_adm4": "11.14.01.2005"
+                    },
+                    {
+                        "id": 204,
+                        "nama": "Pasi Tulak Bala",
+                        "kode_adm4": "11.14.01.2002"
+                    },
+                    {
+                        "id": 206,
+                        "nama": "Rambong Payong",
+                        "kode_adm4": "11.14.01.2004"
+                    },
+                    {
+                        "id": 205,
+                        "nama": "Tanoh Anoe",
+                        "kode_adm4": "11.14.01.2003"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "nama": "Kabupaten Aceh Tamiang",
+        "kecamatan": [
+            {
+                "id": 1610,
+                "nama": "Banda Mulia",
+                "kelurahan": [
+                    {
+                        "id": 272,
+                        "nama": "Paya Rahat",
+                        "kode_adm4": "11.16.10.2003"
+                    },
+                    {
+                        "id": 271,
+                        "nama": "Telaga Meuku Dua",
+                        "kode_adm4": "11.16.10.2002"
+                    },
+                    {
+                        "id": 270,
+                        "nama": "Telaga Meuku Sa",
+                        "kode_adm4": "11.16.10.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1611,
+                "nama": "Bandar Pusaka",
+                "kelurahan": [
+                    {
+                        "id": 273,
+                        "nama": "Babo",
+                        "kode_adm4": "11.16.11.2001"
+                    },
+                    {
+                        "id": 275,
+                        "nama": "Batas Pering",
+                        "kode_adm4": "11.16.11.2003"
+                    },
+                    {
+                        "id": 274,
+                        "nama": "Pengidam",
+                        "kode_adm4": "11.16.11.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1606,
+                "nama": "Bendahara",
+                "kelurahan": [
+                    {
+                        "id": 258,
+                        "nama": "Rantau Pakam",
+                        "kode_adm4": "11.16.06.2004"
+                    },
+                    {
+                        "id": 255,
+                        "nama": "Sungai Iyu",
+                        "kode_adm4": "11.16.06.2001"
+                    },
+                    {
+                        "id": 256,
+                        "nama": "Teluk Halban",
+                        "kode_adm4": "11.16.06.2002"
+                    },
+                    {
+                        "id": 257,
+                        "nama": "Teluk Kepayang",
+                        "kode_adm4": "11.16.06.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1601,
+                "nama": "Karang Baru",
+                "kelurahan": [
+                    {
+                        "id": 230,
+                        "nama": "Bundar",
+                        "kode_adm4": "11.16.01.2003"
+                    },
+                    {
+                        "id": 233,
+                        "nama": "Johar",
+                        "kode_adm4": "11.16.01.2007"
+                    },
+                    {
+                        "id": 235,
+                        "nama": "Kuala Peunaga",
+                        "kode_adm4": "11.16.01.2009"
+                    },
+                    {
+                        "id": 229,
+                        "nama": "Medang Ara",
+                        "kode_adm4": "11.16.01.2002"
+                    },
+                    {
+                        "id": 232,
+                        "nama": "Pangkalan",
+                        "kode_adm4": "11.16.01.2005"
+                    },
+                    {
+                        "id": 234,
+                        "nama": "Rantau Pauh",
+                        "kode_adm4": "11.16.01.2008"
+                    },
+                    {
+                        "id": 231,
+                        "nama": "Tanjung Karang",
+                        "kode_adm4": "11.16.01.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1607,
+                "nama": "Kejuruan Muda",
+                "kelurahan": [
+                    {
+                        "id": 260,
+                        "nama": "Bukit Rata",
+                        "kode_adm4": "11.16.07.2002"
+                    },
+                    {
+                        "id": 262,
+                        "nama": "Pangkalan Suir",
+                        "kode_adm4": "11.16.07.2004"
+                    },
+                    {
+                        "id": 261,
+                        "nama": "Semadam",
+                        "kode_adm4": "11.16.07.2003"
+                    },
+                    {
+                        "id": 259,
+                        "nama": "Sungai Liput",
+                        "kode_adm4": "11.16.07.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1608,
+                "nama": "Kota Kualasimpang",
+                "kelurahan": [
+                    {
+                        "id": 265,
+                        "nama": "Bukit Tempurung",
+                        "kode_adm4": "11.16.08.2003"
+                    },
+                    {
+                        "id": 263,
+                        "nama": "Kota Kualasimpang",
+                        "kode_adm4": "11.16.08.2001"
+                    },
+                    {
+                        "id": 264,
+                        "nama": "Perlak",
+                        "kode_adm4": "11.16.08.2002"
+                    },
+                    {
+                        "id": 266,
+                        "nama": "Sri Wijaya",
+                        "kode_adm4": "11.16.08.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1604,
+                "nama": "Manyak Payed",
+                "kelurahan": [
+                    {
+                        "id": 250,
+                        "nama": "Ie Tiris",
+                        "kode_adm4": "11.16.04.2005"
+                    },
+                    {
+                        "id": 248,
+                        "nama": "Pua Seuleumak",
+                        "kode_adm4": "11.16.04.2003"
+                    },
+                    {
+                        "id": 247,
+                        "nama": "Sampaimah",
+                        "kode_adm4": "11.16.04.2002"
+                    },
+                    {
+                        "id": 249,
+                        "nama": "Seulemak",
+                        "kode_adm4": "11.16.04.2004"
+                    },
+                    {
+                        "id": 246,
+                        "nama": "Tualang Cut",
+                        "kode_adm4": "11.16.04.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1603,
+                "nama": "Rantau",
+                "kelurahan": [
+                    {
+                        "id": 242,
+                        "nama": "Alur Cucur",
+                        "kode_adm4": "11.16.03.2003"
+                    },
+                    {
+                        "id": 241,
+                        "nama": "Alur Manis",
+                        "kode_adm4": "11.16.03.2002"
+                    },
+                    {
+                        "id": 244,
+                        "nama": "Inpres",
+                        "kode_adm4": "11.16.03.2005"
+                    },
+                    {
+                        "id": 245,
+                        "nama": "Jamur Labu",
+                        "kode_adm4": "11.16.03.2006"
+                    },
+                    {
+                        "id": 243,
+                        "nama": "Landuh",
+                        "kode_adm4": "11.16.03.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1609,
+                "nama": "Sekerak",
+                "kelurahan": [
+                    {
+                        "id": 267,
+                        "nama": "Sekerak Kanan",
+                        "kode_adm4": "11.16.09.2001"
+                    },
+                    {
+                        "id": 268,
+                        "nama": "Sekerak Kiri",
+                        "kode_adm4": "11.16.09.2002"
+                    },
+                    {
+                        "id": 269,
+                        "nama": "Suka Upaya",
+                        "kode_adm4": "11.16.09.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1605,
+                "nama": "Seruway",
+                "kelurahan": [
+                    {
+                        "id": 252,
+                        "nama": "Muka Sungai Kuruk",
+                        "kode_adm4": "11.16.05.2002"
+                    },
+                    {
+                        "id": 254,
+                        "nama": "Padang Langgis",
+                        "kode_adm4": "11.16.05.2004"
+                    },
+                    {
+                        "id": 251,
+                        "nama": "Pekan Seruway",
+                        "kode_adm4": "11.16.05.2001"
+                    },
+                    {
+                        "id": 253,
+                        "nama": "Tangsi Lama",
+                        "kode_adm4": "11.16.05.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1602,
+                "nama": "Tamiang Hulu",
+                "kelurahan": [
+                    {
+                        "id": 239,
+                        "nama": "Batang Ara",
+                        "kode_adm4": "11.16.02.2004"
+                    },
+                    {
+                        "id": 240,
+                        "nama": "Harum Sari",
+                        "kode_adm4": "11.16.02.2005"
+                    },
+                    {
+                        "id": 238,
+                        "nama": "Perkebunan Pulau Tiga",
+                        "kode_adm4": "11.16.02.2003"
+                    },
+                    {
+                        "id": 236,
+                        "nama": "Pulau Tiga",
+                        "kode_adm4": "11.16.02.2001"
+                    },
+                    {
+                        "id": 237,
+                        "nama": "Rongoh",
+                        "kode_adm4": "11.16.02.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1612,
+                "nama": "Tenggulun",
+                "kelurahan": [
+                    {
+                        "id": 278,
+                        "nama": "Selamat",
+                        "kode_adm4": "11.16.12.2003"
+                    },
+                    {
+                        "id": 276,
+                        "nama": "Simpang Kiri",
+                        "kode_adm4": "11.16.12.2001"
+                    },
+                    {
+                        "id": 277,
+                        "nama": "Tenggulun",
+                        "kode_adm4": "11.16.12.2002"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nama": "Kabupaten Aceh Tengah",
+        "kecamatan": [
+            {
+                "id": 410,
+                "nama": "Atu Lintang",
+                "kelurahan": [
+                    {
+                        "id": 321,
+                        "nama": "Atu Lintang",
+                        "kode_adm4": "11.04.10.2001"
+                    },
+                    {
+                        "id": 323,
+                        "nama": "Damar Mulyo",
+                        "kode_adm4": "11.04.10.2003"
+                    },
+                    {
+                        "id": 322,
+                        "nama": "Merah Mege",
+                        "kode_adm4": "11.04.10.2002"
+                    }
+                ]
+            },
+            {
+                "id": 403,
+                "nama": "Bebesen",
+                "kelurahan": [
+                    {
+                        "id": 295,
+                        "nama": "Blang Kolak I",
+                        "kode_adm4": "11.04.03.2010"
+                    },
+                    {
+                        "id": 296,
+                        "nama": "Blang Kolak II",
+                        "kode_adm4": "11.04.03.2011"
+                    },
+                    {
+                        "id": 297,
+                        "nama": "Doyong",
+                        "kode_adm4": "11.04.03.2012"
+                    },
+                    {
+                        "id": 293,
+                        "nama": "Kemili",
+                        "kode_adm4": "11.04.03.2005"
+                    },
+                    {
+                        "id": 291,
+                        "nama": "Lemah Burbana",
+                        "kode_adm4": "11.04.03.2001"
+                    },
+                    {
+                        "id": 292,
+                        "nama": "Mongal",
+                        "kode_adm4": "11.04.03.2002"
+                    },
+                    {
+                        "id": 294,
+                        "nama": "Ulu Nuwang",
+                        "kode_adm4": "11.04.03.2006"
+                    }
+                ]
+            },
+            {
+                "id": 412,
+                "nama": "Bies",
+                "kelurahan": [
+                    {
+                        "id": 328,
+                        "nama": "Atu Gajah",
+                        "kode_adm4": "11.04.12.2002"
+                    },
+                    {
+                        "id": 327,
+                        "nama": "Bies Mulie",
+                        "kode_adm4": "11.04.12.2001"
+                    },
+                    {
+                        "id": 329,
+                        "nama": "Simpang Uning",
+                        "kode_adm4": "11.04.12.2003"
+                    }
+                ]
+            },
+            {
+                "id": 405,
+                "nama": "Bintang",
+                "kelurahan": [
+                    {
+                        "id": 304,
+                        "nama": "Bale Nosar",
+                        "kode_adm4": "11.04.05.2002"
+                    },
+                    {
+                        "id": 303,
+                        "nama": "Bintang",
+                        "kode_adm4": "11.04.05.2001"
+                    },
+                    {
+                        "id": 305,
+                        "nama": "Linung Bullen",
+                        "kode_adm4": "11.04.05.2003"
+                    },
+                    {
+                        "id": 306,
+                        "nama": "Mengaya",
+                        "kode_adm4": "11.04.05.2004"
+                    }
+                ]
+            },
+            {
+                "id": 407,
+                "nama": "Celala",
+                "kelurahan": [
+                    {
+                        "id": 312,
+                        "nama": "Berawang Gading",
+                        "kode_adm4": "11.04.07.2002"
+                    },
+                    {
+                        "id": 313,
+                        "nama": "Blang Delem",
+                        "kode_adm4": "11.04.07.2003"
+                    },
+                    {
+                        "id": 311,
+                        "nama": "Celala",
+                        "kode_adm4": "11.04.07.2001"
+                    }
+                ]
+            },
+            {
+                "id": 411,
+                "nama": "Jagong Jeget",
+                "kelurahan": [
+                    {
+                        "id": 326,
+                        "nama": "Gegerung",
+                        "kode_adm4": "11.04.11.2003"
+                    },
+                    {
+                        "id": 324,
+                        "nama": "Jagong Jeget",
+                        "kode_adm4": "11.04.11.2001"
+                    },
+                    {
+                        "id": 325,
+                        "nama": "Jeget Ayu",
+                        "kode_adm4": "11.04.11.2002"
+                    }
+                ]
+            },
+            {
+                "id": 409,
+                "nama": "Kebayakan",
+                "kelurahan": [
+                    {
+                        "id": 317,
+                        "nama": "Jongok Bathin",
+                        "kode_adm4": "11.04.09.2001"
+                    },
+                    {
+                        "id": 318,
+                        "nama": "Mening Nyerang",
+                        "kode_adm4": "11.04.09.2002"
+                    },
+                    {
+                        "id": 320,
+                        "nama": "Paya Tumpi",
+                        "kode_adm4": "11.04.09.2004"
+                    },
+                    {
+                        "id": 319,
+                        "nama": "Pinangan",
+                        "kode_adm4": "11.04.09.2003"
+                    }
+                ]
+            },
+            {
+                "id": 406,
+                "nama": "Ketol",
+                "kelurahan": [
+                    {
+                        "id": 307,
+                        "nama": "Blang Mancung",
+                        "kode_adm4": "11.04.06.2001"
+                    },
+                    {
+                        "id": 310,
+                        "nama": "Keketan",
+                        "kode_adm4": "11.04.06.2004"
+                    },
+                    {
+                        "id": 308,
+                        "nama": "Pondok Balik",
+                        "kode_adm4": "11.04.06.2002"
+                    },
+                    {
+                        "id": 309,
+                        "nama": "Rejeru",
+                        "kode_adm4": "11.04.06.2003"
+                    }
+                ]
+            },
+            {
+                "id": 408,
+                "nama": "Kute Panang",
+                "kelurahan": [
+                    {
+                        "id": 314,
+                        "nama": "Kute Panang",
+                        "kode_adm4": "11.04.08.2001"
+                    },
+                    {
+                        "id": 316,
+                        "nama": "Lukup Sabun",
+                        "kode_adm4": "11.04.08.2003"
+                    },
+                    {
+                        "id": 315,
+                        "nama": "Segene Balik",
+                        "kode_adm4": "11.04.08.2002"
+                    }
+                ]
+            },
+            {
+                "id": 401,
+                "nama": "Lut Tawar",
+                "kelurahan": [
+                    {
+                        "id": 281,
+                        "nama": "Asir Asir",
+                        "kode_adm4": "11.04.01.2003"
+                    },
+                    {
+                        "id": 283,
+                        "nama": "Bale Atu",
+                        "kode_adm4": "11.04.01.2005"
+                    },
+                    {
+                        "id": 282,
+                        "nama": "Bujang",
+                        "kode_adm4": "11.04.01.2004"
+                    },
+                    {
+                        "id": 284,
+                        "nama": "Kuteni Reje",
+                        "kode_adm4": "11.04.01.2006"
+                    },
+                    {
+                        "id": 285,
+                        "nama": "One One",
+                        "kode_adm4": "11.04.01.2007"
+                    },
+                    {
+                        "id": 279,
+                        "nama": "Takengon Barat",
+                        "kode_adm4": "11.04.01.2001"
+                    },
+                    {
+                        "id": 280,
+                        "nama": "Takengon Timur",
+                        "kode_adm4": "11.04.01.2002"
+                    }
+                ]
+            },
+            {
+                "id": 404,
+                "nama": "Pegasing",
+                "kelurahan": [
+                    {
+                        "id": 299,
+                        "nama": "Kayu Kul",
+                        "kode_adm4": "11.04.04.2002"
+                    },
+                    {
+                        "id": 300,
+                        "nama": "Kedabek",
+                        "kode_adm4": "11.04.04.2003"
+                    },
+                    {
+                        "id": 301,
+                        "nama": "Pegasing",
+                        "kode_adm4": "11.04.04.2004"
+                    },
+                    {
+                        "id": 298,
+                        "nama": "Simpang Kelaping",
+                        "kode_adm4": "11.04.04.2001"
+                    },
+                    {
+                        "id": 302,
+                        "nama": "Wih Nareh",
+                        "kode_adm4": "11.04.04.2005"
+                    }
+                ]
+            },
+            {
+                "id": 413,
+                "nama": "Rusip Antara",
+                "kelurahan": [
+                    {
+                        "id": 331,
+                        "nama": "Panton Nangka",
+                        "kode_adm4": "11.04.13.2002"
+                    },
+                    {
+                        "id": 332,
+                        "nama": "Paya Ungel",
+                        "kode_adm4": "11.04.13.2003"
+                    },
+                    {
+                        "id": 330,
+                        "nama": "Rusip",
+                        "kode_adm4": "11.04.13.2001"
+                    }
+                ]
+            },
+            {
+                "id": 402,
+                "nama": "Silih Nara",
+                "kelurahan": [
+                    {
+                        "id": 286,
+                        "nama": "Angkup",
+                        "kode_adm4": "11.04.02.2001"
+                    },
+                    {
+                        "id": 287,
+                        "nama": "Burni Bius",
+                        "kode_adm4": "11.04.02.2002"
+                    },
+                    {
+                        "id": 288,
+                        "nama": "Mulie Jadi",
+                        "kode_adm4": "11.04.02.2003"
+                    },
+                    {
+                        "id": 289,
+                        "nama": "Paya Pegasing",
+                        "kode_adm4": "11.04.02.2004"
+                    },
+                    {
+                        "id": 290,
+                        "nama": "Semelit Marti",
+                        "kode_adm4": "11.04.02.2005"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nama": "Kabupaten Aceh Timur",
+        "kecamatan": [
+            {
+                "id": 320,
+                "nama": "Banda Alam",
+                "kelurahan": []
+            },
+            {
+                "id": 305,
+                "nama": "Birem Bayeun",
+                "kelurahan": [
+                    {
+                        "id": 353,
+                        "nama": "Aramiah",
+                        "kode_adm4": "11.03.01.2003"
+                    },
+                    {
+                        "id": 351,
+                        "nama": "Birem Rayeuk",
+                        "kode_adm4": "11.03.01.2001"
+                    },
+                    {
+                        "id": 352,
+                        "nama": "Keude Birem",
+                        "kode_adm4": "11.03.01.2002"
+                    }
+                ]
+            },
+            {
+                "id": 306,
+                "nama": "Darul Aman",
+                "kelurahan": [
+                    {
+                        "id": 354,
+                        "nama": "Idi Cut",
+                        "kode_adm4": "11.03.05.2001"
+                    },
+                    {
+                        "id": 355,
+                        "nama": "Matang Ulim",
+                        "kode_adm4": "11.03.05.2002"
+                    },
+                    {
+                        "id": 356,
+                        "nama": "Seuneubok Baro",
+                        "kode_adm4": "11.03.05.2003"
+                    }
+                ]
+            },
+            {
+                "id": 316,
+                "nama": "Darul Ihsan",
+                "kelurahan": []
+            },
+            {
+                "id": 301,
+                "nama": "Idi Rayeuk",
+                "kelurahan": [
+                    {
+                        "id": 337,
+                        "nama": "Gampong Jalan",
+                        "kode_adm4": "11.03.03.2005"
+                    },
+                    {
+                        "id": 333,
+                        "nama": "Kampong Jawa",
+                        "kode_adm4": "11.03.03.2001"
+                    },
+                    {
+                        "id": 335,
+                        "nama": "Kuta Asan",
+                        "kode_adm4": "11.03.03.2003"
+                    },
+                    {
+                        "id": 336,
+                        "nama": "Seuneubok Rambong",
+                        "kode_adm4": "11.03.03.2004"
+                    },
+                    {
+                        "id": 338,
+                        "nama": "Tanjong Kapai",
+                        "kode_adm4": "11.03.03.2006"
+                    },
+                    {
+                        "id": 334,
+                        "nama": "Tanoh Anou",
+                        "kode_adm4": "11.03.03.2002"
+                    }
+                ]
+            },
+            {
+                "id": 314,
+                "nama": "Idi Timur",
+                "kelurahan": []
+            },
+            {
+                "id": 315,
+                "nama": "Idi Tunong",
+                "kelurahan": []
+            },
+            {
+                "id": 307,
+                "nama": "Julok",
+                "kelurahan": [
+                    {
+                        "id": 357,
+                        "nama": "Kuta Binjei",
+                        "kode_adm4": "11.03.07.2001"
+                    },
+                    {
+                        "id": 359,
+                        "nama": "Lhok Seuntang",
+                        "kode_adm4": "11.03.07.2003"
+                    },
+                    {
+                        "id": 358,
+                        "nama": "Ulee Tanoh",
+                        "kode_adm4": "11.03.07.2002"
+                    }
+                ]
+            },
+            {
+                "id": 308,
+                "nama": "Madat",
+                "kelurahan": [
+                    {
+                        "id": 362,
+                        "nama": "Lueng Satu",
+                        "kode_adm4": "11.03.12.2003"
+                    },
+                    {
+                        "id": 360,
+                        "nama": "Madat",
+                        "kode_adm4": "11.03.12.2001"
+                    },
+                    {
+                        "id": 361,
+                        "nama": "Matang Keupula",
+                        "kode_adm4": "11.03.12.2002"
+                    }
+                ]
+            },
+            {
+                "id": 311,
+                "nama": "Nurussalam",
+                "kelurahan": []
+            },
+            {
+                "id": 318,
+                "nama": "Pante Bidari",
+                "kelurahan": []
+            },
+            {
+                "id": 309,
+                "nama": "Peudawa",
+                "kelurahan": [
+                    {
+                        "id": 363,
+                        "nama": "Peudawa Puntong",
+                        "kode_adm4": "11.03.17.2001"
+                    },
+                    {
+                        "id": 364,
+                        "nama": "Seuneubok Peunteut",
+                        "kode_adm4": "11.03.17.2002"
+                    }
+                ]
+            },
+            {
+                "id": 302,
+                "nama": "Peureulak",
+                "kelurahan": [
+                    {
+                        "id": 341,
+                        "nama": "Bangka Rimueng",
+                        "kode_adm4": "11.03.04.2003"
+                    },
+                    {
+                        "id": 342,
+                        "nama": "Cot Keh",
+                        "kode_adm4": "11.03.04.2004"
+                    },
+                    {
+                        "id": 339,
+                        "nama": "Leuge",
+                        "kode_adm4": "11.03.04.2001"
+                    },
+                    {
+                        "id": 340,
+                        "nama": "Pasar Peureulak",
+                        "kode_adm4": "11.03.04.2002"
+                    },
+                    {
+                        "id": 343,
+                        "nama": "Tualang",
+                        "kode_adm4": "11.03.04.2005"
+                    }
+                ]
+            },
+            {
+                "id": 312,
+                "nama": "Peureulak Barat",
+                "kelurahan": []
+            },
+            {
+                "id": 313,
+                "nama": "Peureulak Timur",
+                "kelurahan": []
+            },
+            {
+                "id": 304,
+                "nama": "Ranto Peureulak",
+                "kelurahan": [
+                    {
+                        "id": 349,
+                        "nama": "Alue Dua",
+                        "kode_adm4": "11.03.14.2002"
+                    },
+                    {
+                        "id": 350,
+                        "nama": "Bhim",
+                        "kode_adm4": "11.03.14.2003"
+                    },
+                    {
+                        "id": 348,
+                        "nama": "Ranto Peureulak",
+                        "kode_adm4": "11.03.14.2001"
+                    }
+                ]
+            },
+            {
+                "id": 319,
+                "nama": "Serajadi",
+                "kelurahan": []
+            },
+            {
+                "id": 317,
+                "nama": "Simpang Jernih",
+                "kelurahan": []
+            },
+            {
+                "id": 303,
+                "nama": "Simpang Ulim",
+                "kelurahan": [
+                    {
+                        "id": 345,
+                        "nama": "Alue Ceurih",
+                        "kode_adm4": "11.03.02.2002"
+                    },
+                    {
+                        "id": 347,
+                        "nama": "Bantayan",
+                        "kode_adm4": "11.03.02.2004"
+                    },
+                    {
+                        "id": 344,
+                        "nama": "Keude Tuha",
+                        "kode_adm4": "11.03.02.2001"
+                    },
+                    {
+                        "id": 346,
+                        "nama": "Peulalu",
+                        "kode_adm4": "11.03.02.2003"
+                    }
+                ]
+            },
+            {
+                "id": 310,
+                "nama": "Sungai Raya",
+                "kelurahan": [
+                    {
+                        "id": 366,
+                        "nama": "Gampong Mesjid",
+                        "kode_adm4": "11.03.16.2002"
+                    },
+                    {
+                        "id": 365,
+                        "nama": "Labuhan Keude",
+                        "kode_adm4": "11.03.16.2001"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nama": "Kabupaten Aceh Utara",
+        "kecamatan": [
+            {
+                "id": 1692,
+                "nama": "Baktiya",
+                "kelurahan": []
+            },
+            {
+                "id": 1693,
+                "nama": "Baktiya Barat",
+                "kelurahan": []
+            },
+            {
+                "id": 1708,
+                "nama": "Banda Baro",
+                "kelurahan": []
+            },
+            {
+                "id": 1702,
+                "nama": "Cot Girek",
+                "kelurahan": []
+            },
+            {
+                "id": 1685,
+                "nama": "Dewantara",
+                "kelurahan": [
+                    {
+                        "id": 511,
+                        "nama": "Bangka Jaya",
+                        "kode_adm4": "11.08.13.2011"
+                    },
+                    {
+                        "id": 503,
+                        "nama": "Keude Krueng Geukueh",
+                        "kode_adm4": "11.08.13.2001"
+                    },
+                    {
+                        "id": 508,
+                        "nama": "Paloh Igeuh",
+                        "kode_adm4": "11.08.13.2006"
+                    },
+                    {
+                        "id": 506,
+                        "nama": "Paloh Lada",
+                        "kode_adm4": "11.08.13.2004"
+                    },
+                    {
+                        "id": 509,
+                        "nama": "Puntong",
+                        "kode_adm4": "11.08.13.2007"
+                    },
+                    {
+                        "id": 505,
+                        "nama": "Tambon Baroh",
+                        "kode_adm4": "11.08.13.2003"
+                    },
+                    {
+                        "id": 504,
+                        "nama": "Tambon Tunong",
+                        "kode_adm4": "11.08.13.2002"
+                    },
+                    {
+                        "id": 507,
+                        "nama": "Ulee Reuleung",
+                        "kode_adm4": "11.08.13.2005"
+                    },
+                    {
+                        "id": 510,
+                        "nama": "Uteun Geulinggang",
+                        "kode_adm4": "11.08.13.2008"
+                    }
+                ]
+            },
+            {
+                "id": 1710,
+                "nama": "Geuredong Pase",
+                "kelurahan": []
+            },
+            {
+                "id": 1697,
+                "nama": "Kuta Makmur",
+                "kelurahan": [
+                    {
+                        "id": 498,
+                        "nama": "Blang Adoe",
+                        "kode_adm4": "11.08.12.2003"
+                    },
+                    {
+                        "id": 496,
+                        "nama": "Buloh Blang Ara",
+                        "kode_adm4": "11.08.12.2001"
+                    },
+                    {
+                        "id": 497,
+                        "nama": "Keude Blang Ara",
+                        "kode_adm4": "11.08.12.2002"
+                    },
+                    {
+                        "id": 502,
+                        "nama": "Krueng Seunong",
+                        "kode_adm4": "11.08.12.2010"
+                    },
+                    {
+                        "id": 499,
+                        "nama": "Meunasah Kulam",
+                        "kode_adm4": "11.08.12.2004"
+                    },
+                    {
+                        "id": 500,
+                        "nama": "Meunye Cutbah",
+                        "kode_adm4": "11.08.12.2005"
+                    },
+                    {
+                        "id": 501,
+                        "nama": "Pulo Ie",
+                        "kode_adm4": "11.08.12.2008"
+                    }
+                ]
+            },
+            {
+                "id": 1703,
+                "nama": "Langkahan",
+                "kelurahan": []
+            },
+            {
+                "id": 1706,
+                "nama": "Lapang",
+                "kelurahan": []
+            },
+            {
+                "id": 1684,
+                "nama": "Lhoksukon",
+                "kelurahan": [
+                    {
+                        "id": 513,
+                        "nama": "Dayah Lhoksukon",
+                        "kode_adm4": "11.08.04.2002"
+                    },
+                    {
+                        "id": 512,
+                        "nama": "Kuta Lhoksukon",
+                        "kode_adm4": "11.08.04.2001"
+                    },
+                    {
+                        "id": 514,
+                        "nama": "Meunasah Jok",
+                        "kode_adm4": "11.08.04.2003"
+                    },
+                    {
+                        "id": 516,
+                        "nama": "Meunasah Nga",
+                        "kode_adm4": "11.08.04.2005"
+                    },
+                    {
+                        "id": 515,
+                        "nama": "Trieng Pantang",
+                        "kode_adm4": "11.08.04.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1691,
+                "nama": "Matangkuli",
+                "kelurahan": []
+            },
+            {
+                "id": 1696,
+                "nama": "Meurah Mulia",
+                "kelurahan": []
+            },
+            {
+                "id": 1686,
+                "nama": "Muara Batu",
+                "kelurahan": [
+                    {
+                        "id": 520,
+                        "nama": "Cot Trueng",
+                        "kode_adm4": "11.08.01.2009"
+                    },
+                    {
+                        "id": 518,
+                        "nama": "Keude Buleuen",
+                        "kode_adm4": "11.08.01.2002"
+                    },
+                    {
+                        "id": 517,
+                        "nama": "Krueng Mane",
+                        "kode_adm4": "11.08.01.2001"
+                    },
+                    {
+                        "id": 519,
+                        "nama": "Mane Kawan",
+                        "kode_adm4": "11.08.01.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1704,
+                "nama": "Nibong",
+                "kelurahan": []
+            },
+            {
+                "id": 1699,
+                "nama": "Nisam",
+                "kelurahan": [
+                    {
+                        "id": 530,
+                        "nama": "Keude Keuruweung",
+                        "kode_adm4": "11.08.14.2001"
+                    },
+                    {
+                        "id": 531,
+                        "nama": "Meunasah Rayeuk",
+                        "kode_adm4": "11.08.14.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1709,
+                "nama": "Nisam Antara",
+                "kelurahan": []
+            },
+            {
+                "id": 1701,
+                "nama": "Paya Bakong",
+                "kelurahan": []
+            },
+            {
+                "id": 1707,
+                "nama": "Pirak Timur",
+                "kelurahan": []
+            },
+            {
+                "id": 1687,
+                "nama": "Samudera",
+                "kelurahan": [
+                    {
+                        "id": 521,
+                        "nama": "Geudong",
+                        "kode_adm4": "11.08.09.2001"
+                    },
+                    {
+                        "id": 522,
+                        "nama": "Kuta Karang",
+                        "kode_adm4": "11.08.09.2002"
+                    },
+                    {
+                        "id": 523,
+                        "nama": "Teupin Beulangan",
+                        "kode_adm4": "11.08.09.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1698,
+                "nama": "Sawang",
+                "kelurahan": [
+                    {
+                        "id": 529,
+                        "nama": "Kubue",
+                        "kode_adm4": "11.08.10.2002"
+                    },
+                    {
+                        "id": 528,
+                        "nama": "Sawang",
+                        "kode_adm4": "11.08.10.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1695,
+                "nama": "Seunuddon",
+                "kelurahan": []
+            },
+            {
+                "id": 1700,
+                "nama": "Simpang Keuramat",
+                "kelurahan": []
+            },
+            {
+                "id": 1689,
+                "nama": "Syamtalira Aron",
+                "kelurahan": []
+            },
+            {
+                "id": 1688,
+                "nama": "Syamtalira Bayu",
+                "kelurahan": [
+                    {
+                        "id": 525,
+                        "nama": "Beunyot",
+                        "kode_adm4": "11.08.11.2002"
+                    },
+                    {
+                        "id": 524,
+                        "nama": "Keude Bayu",
+                        "kode_adm4": "11.08.11.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1694,
+                "nama": "Tanah Jambo Aye",
+                "kelurahan": [
+                    {
+                        "id": 526,
+                        "nama": "Panton Labu",
+                        "kode_adm4": "11.08.03.2001"
+                    },
+                    {
+                        "id": 527,
+                        "nama": "Rawang Itek",
+                        "kode_adm4": "11.08.03.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1690,
+                "nama": "Tanah Luas",
+                "kelurahan": []
+            },
+            {
+                "id": 1705,
+                "nama": "Tanah Pasir",
+                "kelurahan": []
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "nama": "Kabupaten Bener Meriah",
+        "kecamatan": [
+            {
+                "id": 1713,
+                "nama": "Bandar",
+                "kelurahan": [
+                    {
+                        "id": 806,
+                        "nama": "Bintang Bener",
+                        "kode_adm4": "11.17.04.2005"
+                    },
+                    {
+                        "id": 803,
+                        "nama": "Janarata",
+                        "kode_adm4": "11.17.04.2002"
+                    },
+                    {
+                        "id": 802,
+                        "nama": "Pondok Baru",
+                        "kode_adm4": "11.17.04.2001"
+                    },
+                    {
+                        "id": 807,
+                        "nama": "Pondok Gajah",
+                        "kode_adm4": "11.17.04.2006"
+                    },
+                    {
+                        "id": 804,
+                        "nama": "Purwosari",
+                        "kode_adm4": "11.17.04.2003"
+                    },
+                    {
+                        "id": 805,
+                        "nama": "Tanjung Pura",
+                        "kode_adm4": "11.17.04.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1718,
+                "nama": "Bener Kelipah",
+                "kelurahan": [
+                    {
+                        "id": 823,
+                        "nama": "Bener Kelipah",
+                        "kode_adm4": "11.17.08.2001"
+                    },
+                    {
+                        "id": 824,
+                        "nama": "Bener Lukup",
+                        "kode_adm4": "11.17.08.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1711,
+                "nama": "Bukit",
+                "kelurahan": [
+                    {
+                        "id": 790,
+                        "nama": "Babussalam",
+                        "kode_adm4": "11.17.05.2004"
+                    },
+                    {
+                        "id": 788,
+                        "nama": "Bale Atu",
+                        "kode_adm4": "11.17.05.2002"
+                    },
+                    {
+                        "id": 791,
+                        "nama": "Blang Tampu",
+                        "kode_adm4": "11.17.05.2005"
+                    },
+                    {
+                        "id": 792,
+                        "nama": "Ketinggi",
+                        "kode_adm4": "11.17.05.2006"
+                    },
+                    {
+                        "id": 789,
+                        "nama": "Pasar Simpang Tiga",
+                        "kode_adm4": "11.17.05.2003"
+                    },
+                    {
+                        "id": 793,
+                        "nama": "Rejewali",
+                        "kode_adm4": "11.17.05.2007"
+                    },
+                    {
+                        "id": 794,
+                        "nama": "Serule Kayu",
+                        "kode_adm4": "11.17.05.2008"
+                    },
+                    {
+                        "id": 787,
+                        "nama": "Simpang Tiga Redelong",
+                        "kode_adm4": "11.17.05.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1720,
+                "nama": "Gajah Putih",
+                "kelurahan": [
+                    {
+                        "id": 785,
+                        "nama": "Alam Jaya",
+                        "kode_adm4": "11.17.10.2007"
+                    },
+                    {
+                        "id": 783,
+                        "nama": "Gajah Putih",
+                        "kode_adm4": "11.17.10.2005"
+                    },
+                    {
+                        "id": 780,
+                        "nama": "Meriah Jaya",
+                        "kode_adm4": "11.17.10.2002"
+                    },
+                    {
+                        "id": 782,
+                        "nama": "Paya Rajak",
+                        "kode_adm4": "11.17.10.2004"
+                    },
+                    {
+                        "id": 779,
+                        "nama": "Reronga",
+                        "kode_adm4": "11.17.10.2001"
+                    },
+                    {
+                        "id": 784,
+                        "nama": "Rumpun Jaya",
+                        "kode_adm4": "11.17.10.2006"
+                    },
+                    {
+                        "id": 786,
+                        "nama": "Simpang Reronga",
+                        "kode_adm4": "11.17.10.2008"
+                    },
+                    {
+                        "id": 781,
+                        "nama": "Timang Rasa",
+                        "kode_adm4": "11.17.10.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1719,
+                "nama": "Mesidah",
+                "kelurahan": [
+                    {
+                        "id": 826,
+                        "nama": "Cemparam Jaya",
+                        "kode_adm4": "11.17.09.2002"
+                    },
+                    {
+                        "id": 825,
+                        "nama": "Simpang Utama",
+                        "kode_adm4": "11.17.09.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1716,
+                "nama": "Permata",
+                "kelurahan": [
+                    {
+                        "id": 817,
+                        "nama": "Buntut Tani",
+                        "kode_adm4": "11.17.02.2001"
+                    },
+                    {
+                        "id": 818,
+                        "nama": "Kepies",
+                        "kode_adm4": "11.17.02.2002"
+                    },
+                    {
+                        "id": 820,
+                        "nama": "Ramung Jaya",
+                        "kode_adm4": "11.17.02.2004"
+                    },
+                    {
+                        "id": 819,
+                        "nama": "Tepi Mulia",
+                        "kode_adm4": "11.17.02.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1715,
+                "nama": "Pintu Rime Gayo",
+                "kelurahan": [
+                    {
+                        "id": 813,
+                        "nama": "Blang Rakal",
+                        "kode_adm4": "11.17.01.2001"
+                    },
+                    {
+                        "id": 816,
+                        "nama": "Gemuruh",
+                        "kode_adm4": "11.17.01.2004"
+                    },
+                    {
+                        "id": 815,
+                        "nama": "Rithah",
+                        "kode_adm4": "11.17.01.2003"
+                    },
+                    {
+                        "id": 814,
+                        "nama": "Singah Mulo",
+                        "kode_adm4": "11.17.01.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1717,
+                "nama": "Syiah Utama",
+                "kelurahan": [
+                    {
+                        "id": 822,
+                        "nama": "Kerlam",
+                        "kode_adm4": "11.17.03.2002"
+                    },
+                    {
+                        "id": 821,
+                        "nama": "Samar Kilang",
+                        "kode_adm4": "11.17.03.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1714,
+                "nama": "Timang Gajah",
+                "kelurahan": [
+                    {
+                        "id": 811,
+                        "nama": "Kurnia Matang",
+                        "kode_adm4": "11.17.07.2004"
+                    },
+                    {
+                        "id": 808,
+                        "nama": "Lampahan",
+                        "kode_adm4": "11.17.07.2001"
+                    },
+                    {
+                        "id": 812,
+                        "nama": "Lampahan Barat",
+                        "kode_adm4": "11.17.07.2005"
+                    },
+                    {
+                        "id": 809,
+                        "nama": "Rembele",
+                        "kode_adm4": "11.17.07.2002"
+                    },
+                    {
+                        "id": 810,
+                        "nama": "Timang Gajah",
+                        "kode_adm4": "11.17.07.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1712,
+                "nama": "Wih Pesam",
+                "kelurahan": [
+                    {
+                        "id": 800,
+                        "nama": "Blang Panu",
+                        "kode_adm4": "11.17.06.2006"
+                    },
+                    {
+                        "id": 798,
+                        "nama": "Gergung",
+                        "kode_adm4": "11.17.06.2004"
+                    },
+                    {
+                        "id": 801,
+                        "nama": "Jamur Ujung",
+                        "kode_adm4": "11.17.06.2007"
+                    },
+                    {
+                        "id": 796,
+                        "nama": "Pante Raya",
+                        "kode_adm4": "11.17.06.2002"
+                    },
+                    {
+                        "id": 795,
+                        "nama": "Simpang Balek",
+                        "kode_adm4": "11.17.06.2001"
+                    },
+                    {
+                        "id": 799,
+                        "nama": "Suka Rame",
+                        "kode_adm4": "11.17.06.2005"
+                    },
+                    {
+                        "id": 797,
+                        "nama": "Wih Pesam",
+                        "kode_adm4": "11.17.06.2003"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nama": "Kabupaten Bireuen",
+        "kecamatan": [
+            {
+                "id": 1747,
+                "nama": "Gandapura",
+                "kelurahan": [
+                    {
+                        "id": 754,
+                        "nama": "Cot Tufah",
+                        "kode_adm4": "11.11.07.2002"
+                    },
+                    {
+                        "id": 753,
+                        "nama": "Geurugok",
+                        "kode_adm4": "11.11.07.2001"
+                    },
+                    {
+                        "id": 755,
+                        "nama": "Lapang Barat",
+                        "kode_adm4": "11.11.07.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1746,
+                "nama": "Jangka",
+                "kelurahan": [
+                    {
+                        "id": 760,
+                        "nama": "Jangka Masjid",
+                        "kode_adm4": "11.11.06.2001"
+                    },
+                    {
+                        "id": 761,
+                        "nama": "Tanoh Anou",
+                        "kode_adm4": "11.11.06.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1745,
+                "nama": "Jeumpa",
+                "kelurahan": [
+                    {
+                        "id": 759,
+                        "nama": "Abeuk Usong",
+                        "kode_adm4": "11.11.04.2002"
+                    },
+                    {
+                        "id": 758,
+                        "nama": "Blang Bladeh",
+                        "kode_adm4": "11.11.04.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1741,
+                "nama": "Jeunieb",
+                "kelurahan": [
+                    {
+                        "id": 744,
+                        "nama": "Janggot Senget",
+                        "kode_adm4": "11.11.02.2004"
+                    },
+                    {
+                        "id": 741,
+                        "nama": "Keude Jeunieb",
+                        "kode_adm4": "11.11.02.2001"
+                    },
+                    {
+                        "id": 742,
+                        "nama": "Lueng Teungoh",
+                        "kode_adm4": "11.11.02.2002"
+                    },
+                    {
+                        "id": 743,
+                        "nama": "Meunasah Dayah",
+                        "kode_adm4": "11.11.02.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1743,
+                "nama": "Juli",
+                "kelurahan": [
+                    {
+                        "id": 750,
+                        "nama": "Juli Cot Subang",
+                        "kode_adm4": "11.11.09.2002"
+                    },
+                    {
+                        "id": 749,
+                        "nama": "Juli Keude Dua",
+                        "kode_adm4": "11.11.09.2001"
+                    },
+                    {
+                        "id": 751,
+                        "nama": "Juli Meunasah Jok",
+                        "kode_adm4": "11.11.09.2003"
+                    },
+                    {
+                        "id": 752,
+                        "nama": "Juli Tambo Tanjong",
+                        "kode_adm4": "11.11.09.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1738,
+                "nama": "Kota Juang",
+                "kelurahan": [
+                    {
+                        "id": 719,
+                        "nama": "Bandar Bireuen",
+                        "kode_adm4": "11.11.13.2004"
+                    },
+                    {
+                        "id": 724,
+                        "nama": "Bireuen Meunasah Blang",
+                        "kode_adm4": "11.11.13.2009"
+                    },
+                    {
+                        "id": 716,
+                        "nama": "Bireuen Meunasah Capa",
+                        "kode_adm4": "11.11.13.2001"
+                    },
+                    {
+                        "id": 717,
+                        "nama": "Bireuen Meunasah Dayah",
+                        "kode_adm4": "11.11.13.2002"
+                    },
+                    {
+                        "id": 718,
+                        "nama": "Bireuen Meunasah Reuleut",
+                        "kode_adm4": "11.11.13.2003"
+                    },
+                    {
+                        "id": 725,
+                        "nama": "Buket Teukueh",
+                        "kode_adm4": "11.11.13.2010"
+                    },
+                    {
+                        "id": 722,
+                        "nama": "Cot Gapu",
+                        "kode_adm4": "11.11.13.2007"
+                    },
+                    {
+                        "id": 726,
+                        "nama": "Geudong Alue",
+                        "kode_adm4": "11.11.13.2011"
+                    },
+                    {
+                        "id": 721,
+                        "nama": "Geudong Geudong",
+                        "kode_adm4": "11.11.13.2006"
+                    },
+                    {
+                        "id": 723,
+                        "nama": "Lhok Awe Teungoh",
+                        "kode_adm4": "11.11.13.2008"
+                    },
+                    {
+                        "id": 727,
+                        "nama": "Pulo Ara Geudong Teungoh",
+                        "kode_adm4": "11.11.13.2012"
+                    },
+                    {
+                        "id": 720,
+                        "nama": "Pulo Kiton",
+                        "kode_adm4": "11.11.13.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1754,
+                "nama": "Kuala",
+                "kelurahan": [
+                    {
+                        "id": 763,
+                        "nama": "Cot Bada",
+                        "kode_adm4": "11.11.14.2002"
+                    },
+                    {
+                        "id": 762,
+                        "nama": "Kuala Raja",
+                        "kode_adm4": "11.11.14.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1749,
+                "nama": "Kutablang",
+                "kelurahan": [
+                    {
+                        "id": 757,
+                        "nama": "Kulu",
+                        "kode_adm4": "11.11.17.2003"
+                    },
+                    {
+                        "id": 756,
+                        "nama": "Tingkeum Manyang",
+                        "kode_adm4": "11.11.17.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1748,
+                "nama": "Makmur",
+                "kelurahan": [
+                    {
+                        "id": 765,
+                        "nama": "Leubu Cot",
+                        "kode_adm4": "11.11.10.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1744,
+                "nama": "Pandrah",
+                "kelurahan": [
+                    {
+                        "id": 764,
+                        "nama": "Pandrah Kandeh",
+                        "kode_adm4": "11.11.08.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1742,
+                "nama": "Peudada",
+                "kelurahan": [
+                    {
+                        "id": 745,
+                        "nama": "Keude Peudada",
+                        "kode_adm4": "11.11.03.2001"
+                    },
+                    {
+                        "id": 746,
+                        "nama": "Meunasah Blang",
+                        "kode_adm4": "11.11.03.2002"
+                    },
+                    {
+                        "id": 748,
+                        "nama": "Mulia",
+                        "kode_adm4": "11.11.03.2004"
+                    },
+                    {
+                        "id": 747,
+                        "nama": "Paya",
+                        "kode_adm4": "11.11.03.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1752,
+                "nama": "Peulimbang",
+                "kelurahan": [
+                    {
+                        "id": 768,
+                        "nama": "Seuneubok Seumawe",
+                        "kode_adm4": "11.11.15.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1739,
+                "nama": "Peusangan",
+                "kelurahan": [
+                    {
+                        "id": 734,
+                        "nama": "Blang Asan",
+                        "kode_adm4": "11.11.05.2007"
+                    },
+                    {
+                        "id": 731,
+                        "nama": "Cot Girek",
+                        "kode_adm4": "11.11.05.2004"
+                    },
+                    {
+                        "id": 732,
+                        "nama": "Glumpang Payong",
+                        "kode_adm4": "11.11.05.2005"
+                    },
+                    {
+                        "id": 728,
+                        "nama": "Keude Matangglumpangdua",
+                        "kode_adm4": "11.11.05.2001"
+                    },
+                    {
+                        "id": 730,
+                        "nama": "Pante Gajah",
+                        "kode_adm4": "11.11.05.2003"
+                    },
+                    {
+                        "id": 729,
+                        "nama": "Paya Lipah",
+                        "kode_adm4": "11.11.05.2002"
+                    },
+                    {
+                        "id": 733,
+                        "nama": "Paya Meunora",
+                        "kode_adm4": "11.11.05.2006"
+                    },
+                    {
+                        "id": 735,
+                        "nama": "Tanoh Mirah",
+                        "kode_adm4": "11.11.05.2008"
+                    }
+                ]
+            },
+            {
+                "id": 1750,
+                "nama": "Peusangan Selatan",
+                "kelurahan": [
+                    {
+                        "id": 766,
+                        "nama": "Ulee Jalan",
+                        "kode_adm4": "11.11.11.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1751,
+                "nama": "Peusangan Siblah Krueng",
+                "kelurahan": [
+                    {
+                        "id": 767,
+                        "nama": "Lueng Daneun",
+                        "kode_adm4": "11.11.12.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1740,
+                "nama": "Samalanga",
+                "kelurahan": [
+                    {
+                        "id": 738,
+                        "nama": "Kandang",
+                        "kode_adm4": "11.11.01.2003"
+                    },
+                    {
+                        "id": 736,
+                        "nama": "Keude Samalanga",
+                        "kode_adm4": "11.11.01.2001"
+                    },
+                    {
+                        "id": 737,
+                        "nama": "Mideun Jok",
+                        "kode_adm4": "11.11.01.2002"
+                    },
+                    {
+                        "id": 739,
+                        "nama": "Namploh Blang Garang",
+                        "kode_adm4": "11.11.01.2004"
+                    },
+                    {
+                        "id": 740,
+                        "nama": "Sangso",
+                        "kode_adm4": "11.11.01.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1753,
+                "nama": "Simpang Mamplam",
+                "kelurahan": [
+                    {
+                        "id": 769,
+                        "nama": "Ie Rhob",
+                        "kode_adm4": "11.11.16.2001"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "nama": "Kabupaten Gayo Lues",
+        "kecamatan": [
+            {
+                "id": 1761,
+                "nama": "Blang Jerango",
+                "kelurahan": [
+                    {
+                        "id": 866,
+                        "nama": "Akul",
+                        "kode_adm4": "11.13.07.2002"
+                    },
+                    {
+                        "id": 865,
+                        "nama": "Buntul Gemunos",
+                        "kode_adm4": "11.13.07.2001"
+                    },
+                    {
+                        "id": 867,
+                        "nama": "Gegarang",
+                        "kode_adm4": "11.13.07.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1763,
+                "nama": "Blang Pegayon",
+                "kelurahan": [
+                    {
+                        "id": 871,
+                        "nama": "Bempu",
+                        "kode_adm4": "11.13.09.2002"
+                    },
+                    {
+                        "id": 870,
+                        "nama": "Cinta Maju",
+                        "kode_adm4": "11.13.09.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1755,
+                "nama": "Blangkejeren",
+                "kelurahan": [
+                    {
+                        "id": 845,
+                        "nama": "Durin",
+                        "kode_adm4": "11.13.01.2004"
+                    },
+                    {
+                        "id": 846,
+                        "nama": "Geplak",
+                        "kode_adm4": "11.13.01.2005"
+                    },
+                    {
+                        "id": 847,
+                        "nama": "Jawa",
+                        "kode_adm4": "11.13.01.2006"
+                    },
+                    {
+                        "id": 842,
+                        "nama": "Kota Blangkejeren",
+                        "kode_adm4": "11.13.01.2001"
+                    },
+                    {
+                        "id": 843,
+                        "nama": "Kutelintang",
+                        "kode_adm4": "11.13.01.2002"
+                    },
+                    {
+                        "id": 848,
+                        "nama": "Linge",
+                        "kode_adm4": "11.13.01.2007"
+                    },
+                    {
+                        "id": 844,
+                        "nama": "Penampaan",
+                        "kode_adm4": "11.13.01.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1760,
+                "nama": "Dabun Gelang",
+                "kelurahan": [
+                    {
+                        "id": 862,
+                        "nama": "Badak",
+                        "kode_adm4": "11.13.06.2001"
+                    },
+                    {
+                        "id": 863,
+                        "nama": "Rigeb",
+                        "kode_adm4": "11.13.06.2002"
+                    },
+                    {
+                        "id": 864,
+                        "nama": "Sangir",
+                        "kode_adm4": "11.13.06.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1756,
+                "nama": "Kutapanjang",
+                "kelurahan": [
+                    {
+                        "id": 852,
+                        "nama": "Cike",
+                        "kode_adm4": "11.13.02.2004"
+                    },
+                    {
+                        "id": 849,
+                        "nama": "Kutapanjang",
+                        "kode_adm4": "11.13.02.2001"
+                    },
+                    {
+                        "id": 851,
+                        "nama": "Rema",
+                        "kode_adm4": "11.13.02.2003"
+                    },
+                    {
+                        "id": 850,
+                        "nama": "Tampeng",
+                        "kode_adm4": "11.13.02.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1764,
+                "nama": "Pantan Cuaca",
+                "kelurahan": [
+                    {
+                        "id": 872,
+                        "nama": "Kenyaran",
+                        "kode_adm4": "11.13.10.2001"
+                    },
+                    {
+                        "id": 873,
+                        "nama": "Suri Musara",
+                        "kode_adm4": "11.13.10.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1759,
+                "nama": "Pining",
+                "kelurahan": [
+                    {
+                        "id": 861,
+                        "nama": "Lesten",
+                        "kode_adm4": "11.13.05.2003"
+                    },
+                    {
+                        "id": 860,
+                        "nama": "Pasir",
+                        "kode_adm4": "11.13.05.2002"
+                    },
+                    {
+                        "id": 859,
+                        "nama": "Pining",
+                        "kode_adm4": "11.13.05.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1765,
+                "nama": "Puteri Betung",
+                "kelurahan": [
+                    {
+                        "id": 874,
+                        "nama": "Gumpang",
+                        "kode_adm4": "11.13.11.2001"
+                    },
+                    {
+                        "id": 875,
+                        "nama": "Marpunge",
+                        "kode_adm4": "11.13.11.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1757,
+                "nama": "Rikit Gaib",
+                "kelurahan": [
+                    {
+                        "id": 853,
+                        "nama": "Ampa Kolak",
+                        "kode_adm4": "11.13.03.2001"
+                    },
+                    {
+                        "id": 855,
+                        "nama": "Bener",
+                        "kode_adm4": "11.13.03.2003"
+                    },
+                    {
+                        "id": 854,
+                        "nama": "Penosan",
+                        "kode_adm4": "11.13.03.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1758,
+                "nama": "Terangun",
+                "kelurahan": [
+                    {
+                        "id": 858,
+                        "nama": "Garut",
+                        "kode_adm4": "11.13.04.2003"
+                    },
+                    {
+                        "id": 857,
+                        "nama": "Jabo",
+                        "kode_adm4": "11.13.04.2002"
+                    },
+                    {
+                        "id": 856,
+                        "nama": "Terangun",
+                        "kode_adm4": "11.13.04.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1762,
+                "nama": "Teripe Jaya",
+                "kelurahan": [
+                    {
+                        "id": 869,
+                        "nama": "Buntul Musara",
+                        "kode_adm4": "11.13.08.2002"
+                    },
+                    {
+                        "id": 868,
+                        "nama": "Rerebe",
+                        "kode_adm4": "11.13.08.2001"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "nama": "Kabupaten Nagan Raya",
+        "kecamatan": [
+            {
+                "id": 1774,
+                "nama": "Beutong",
+                "kelurahan": [
+                    {
+                        "id": 936,
+                        "nama": "Blang Baro",
+                        "kode_adm4": "11.15.05.2003"
+                    },
+                    {
+                        "id": 934,
+                        "nama": "Keude Seumot",
+                        "kode_adm4": "11.15.05.2001"
+                    },
+                    {
+                        "id": 935,
+                        "nama": "Meunasah Teungoh",
+                        "kode_adm4": "11.15.05.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1775,
+                "nama": "Beutong Ateuh Banggalang",
+                "kelurahan": [
+                    {
+                        "id": 937,
+                        "nama": "Blang Meurandeh",
+                        "kode_adm4": "11.15.06.2001"
+                    },
+                    {
+                        "id": 939,
+                        "nama": "Blang Puuk",
+                        "kode_adm4": "11.15.06.2003"
+                    },
+                    {
+                        "id": 938,
+                        "nama": "Kuto Tengoh",
+                        "kode_adm4": "11.15.06.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1772,
+                "nama": "Darul Makmur",
+                "kelurahan": [
+                    {
+                        "id": 928,
+                        "nama": "Alue Bilie",
+                        "kode_adm4": "11.15.03.2001"
+                    },
+                    {
+                        "id": 929,
+                        "nama": "Puloe Krueng",
+                        "kode_adm4": "11.15.03.2002"
+                    },
+                    {
+                        "id": 930,
+                        "nama": "Suka Raja",
+                        "kode_adm4": "11.15.03.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1769,
+                "nama": "Kuala",
+                "kelurahan": [
+                    {
+                        "id": 921,
+                        "nama": "Blang Mue",
+                        "kode_adm4": "11.15.04.2003"
+                    },
+                    {
+                        "id": 919,
+                        "nama": "Simpang Empat",
+                        "kode_adm4": "11.15.04.2001"
+                    },
+                    {
+                        "id": 920,
+                        "nama": "Ujong Fatihah",
+                        "kode_adm4": "11.15.04.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1770,
+                "nama": "Kuala Pesisir",
+                "kelurahan": [
+                    {
+                        "id": 922,
+                        "nama": "Lueng Teuku Ben",
+                        "kode_adm4": "11.15.09.2001"
+                    },
+                    {
+                        "id": 923,
+                        "nama": "Purwosari",
+                        "kode_adm4": "11.15.09.2002"
+                    },
+                    {
+                        "id": 924,
+                        "nama": "Suak Puntong",
+                        "kode_adm4": "11.15.09.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1767,
+                "nama": "Seunagan",
+                "kelurahan": [
+                    {
+                        "id": 910,
+                        "nama": "Jeuram",
+                        "kode_adm4": "11.15.01.2001"
+                    },
+                    {
+                        "id": 912,
+                        "nama": "Parom",
+                        "kode_adm4": "11.15.01.2003"
+                    },
+                    {
+                        "id": 914,
+                        "nama": "Paya Undan",
+                        "kode_adm4": "11.15.01.2005"
+                    },
+                    {
+                        "id": 911,
+                        "nama": "Peuleukung",
+                        "kode_adm4": "11.15.01.2002"
+                    },
+                    {
+                        "id": 913,
+                        "nama": "Rambong",
+                        "kode_adm4": "11.15.01.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1768,
+                "nama": "Seunagan Timur",
+                "kelurahan": [
+                    {
+                        "id": 915,
+                        "nama": "Keude Linteung",
+                        "kode_adm4": "11.15.02.2001"
+                    },
+                    {
+                        "id": 917,
+                        "nama": "Kila",
+                        "kode_adm4": "11.15.02.2003"
+                    },
+                    {
+                        "id": 918,
+                        "nama": "Tuwi Meuleusong",
+                        "kode_adm4": "11.15.02.2004"
+                    },
+                    {
+                        "id": 916,
+                        "nama": "Utee Pungkie",
+                        "kode_adm4": "11.15.02.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1766,
+                "nama": "Suka Makmue",
+                "kelurahan": [
+                    {
+                        "id": 908,
+                        "nama": "Drien Rampak",
+                        "kode_adm4": "11.15.08.2004"
+                    },
+                    {
+                        "id": 909,
+                        "nama": "Kabong",
+                        "kode_adm4": "11.15.08.2005"
+                    },
+                    {
+                        "id": 906,
+                        "nama": "Kuta Padang",
+                        "kode_adm4": "11.15.08.2002"
+                    },
+                    {
+                        "id": 905,
+                        "nama": "Lueng Baro",
+                        "kode_adm4": "11.15.08.2001"
+                    },
+                    {
+                        "id": 907,
+                        "nama": "Seunamok",
+                        "kode_adm4": "11.15.08.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1771,
+                "nama": "Tadu Raya",
+                "kelurahan": [
+                    {
+                        "id": 925,
+                        "nama": "Alue Bilie",
+                        "kode_adm4": "11.15.10.2001"
+                    },
+                    {
+                        "id": 927,
+                        "nama": "Pasir Putih",
+                        "kode_adm4": "11.15.10.2003"
+                    },
+                    {
+                        "id": 926,
+                        "nama": "Rantau Selamat",
+                        "kode_adm4": "11.15.10.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1773,
+                "nama": "Tripa Makmur",
+                "kelurahan": [
+                    {
+                        "id": 932,
+                        "nama": "Kabu",
+                        "kode_adm4": "11.15.07.2002"
+                    },
+                    {
+                        "id": 931,
+                        "nama": "Lueng Keubeu Jagat",
+                        "kode_adm4": "11.15.07.2001"
+                    },
+                    {
+                        "id": 933,
+                        "nama": "Trieng Gadeng",
+                        "kode_adm4": "11.15.07.2003"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "nama": "Kabupaten Pidie",
+        "kecamatan": [
+            {
+                "id": 1781,
+                "nama": "Batee",
+                "kelurahan": [
+                    {
+                        "id": 985,
+                        "nama": "Gampong Neuheun",
+                        "kode_adm4": "11.07.01.2002"
+                    },
+                    {
+                        "id": 984,
+                        "nama": "Kalee",
+                        "kode_adm4": "11.07.01.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1780,
+                "nama": "Delima",
+                "kelurahan": [
+                    {
+                        "id": 983,
+                        "nama": "Ceurih",
+                        "kode_adm4": "11.07.03.2002"
+                    },
+                    {
+                        "id": 982,
+                        "nama": "Reubee",
+                        "kode_adm4": "11.07.03.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1795,
+                "nama": "Geulumpang Tiga",
+                "kelurahan": [
+                    {
+                        "id": 1003,
+                        "nama": "Teupin Raya",
+                        "kode_adm4": "11.07.05.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1789,
+                "nama": "Geumpang",
+                "kelurahan": [
+                    {
+                        "id": 997,
+                        "nama": "Geumpang",
+                        "kode_adm4": "11.07.04.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1794,
+                "nama": "Glumpang Baro",
+                "kelurahan": [
+                    {
+                        "id": 1002,
+                        "nama": "Unou",
+                        "kode_adm4": "11.07.25.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1798,
+                "nama": "Grong-Grong",
+                "kelurahan": [
+                    {
+                        "id": 1006,
+                        "nama": "Grong-Grong",
+                        "kode_adm4": "11.07.29.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1778,
+                "nama": "Indrajaya",
+                "kelurahan": [
+                    {
+                        "id": 977,
+                        "nama": "Caleue",
+                        "kode_adm4": "11.07.06.2001"
+                    },
+                    {
+                        "id": 978,
+                        "nama": "Gampong Dayah Muara",
+                        "kode_adm4": "11.07.06.2002"
+                    },
+                    {
+                        "id": 979,
+                        "nama": "Garot Geutanyoe",
+                        "kode_adm4": "11.07.06.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1782,
+                "nama": "Kembang Tanjong",
+                "kelurahan": [
+                    {
+                        "id": 987,
+                        "nama": "Gampong Arusan",
+                        "kode_adm4": "11.07.08.2002"
+                    },
+                    {
+                        "id": 986,
+                        "nama": "Ie Leubeue",
+                        "kode_adm4": "11.07.08.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1791,
+                "nama": "Keumala",
+                "kelurahan": [
+                    {
+                        "id": 999,
+                        "nama": "Keumala Dalam",
+                        "kode_adm4": "11.07.07.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1776,
+                "nama": "Kota Sigli",
+                "kelurahan": [
+                    {
+                        "id": 970,
+                        "nama": "Asan",
+                        "kode_adm4": "11.07.09.2003"
+                    },
+                    {
+                        "id": 972,
+                        "nama": "Benteng",
+                        "kode_adm4": "11.07.09.2005"
+                    },
+                    {
+                        "id": 968,
+                        "nama": "Blang Paseh",
+                        "kode_adm4": "11.07.09.2001"
+                    },
+                    {
+                        "id": 971,
+                        "nama": "Kramat Lueng",
+                        "kode_adm4": "11.07.09.2004"
+                    },
+                    {
+                        "id": 969,
+                        "nama": "Kuala Barat",
+                        "kode_adm4": "11.07.09.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1790,
+                "nama": "Mane",
+                "kelurahan": [
+                    {
+                        "id": 998,
+                        "nama": "Mane",
+                        "kode_adm4": "11.07.27.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1792,
+                "nama": "Mila",
+                "kelurahan": [
+                    {
+                        "id": 1000,
+                        "nama": "Mila",
+                        "kode_adm4": "11.07.11.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1793,
+                "nama": "Muara Tiga",
+                "kelurahan": [
+                    {
+                        "id": 1001,
+                        "nama": "Laweung",
+                        "kode_adm4": "11.07.12.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1783,
+                "nama": "Mutiara",
+                "kelurahan": [
+                    {
+                        "id": 988,
+                        "nama": "Beureunuen",
+                        "kode_adm4": "11.07.13.2001"
+                    },
+                    {
+                        "id": 989,
+                        "nama": "Laman Baro",
+                        "kode_adm4": "11.07.13.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1784,
+                "nama": "Mutiara Timur",
+                "kelurahan": [
+                    {
+                        "id": 990,
+                        "nama": "Bandar Dua",
+                        "kode_adm4": "11.07.24.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1785,
+                "nama": "Padang Tiji",
+                "kelurahan": [
+                    {
+                        "id": 992,
+                        "nama": "Kupula",
+                        "kode_adm4": "11.07.14.2002"
+                    },
+                    {
+                        "id": 991,
+                        "nama": "Pasar Paloh",
+                        "kode_adm4": "11.07.14.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1779,
+                "nama": "Peukan Baro",
+                "kelurahan": [
+                    {
+                        "id": 981,
+                        "nama": "Gampong Blang",
+                        "kode_adm4": "11.07.17.2002"
+                    },
+                    {
+                        "id": 980,
+                        "nama": "Lampoih Sakti",
+                        "kode_adm4": "11.07.17.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1777,
+                "nama": "Pidie",
+                "kelurahan": [
+                    {
+                        "id": 976,
+                        "nama": "Gampong Lampoh Lada",
+                        "kode_adm4": "11.07.18.2004"
+                    },
+                    {
+                        "id": 975,
+                        "nama": "Keuniree",
+                        "kode_adm4": "11.07.18.2003"
+                    },
+                    {
+                        "id": 973,
+                        "nama": "Lheue",
+                        "kode_adm4": "11.07.18.2001"
+                    },
+                    {
+                        "id": 974,
+                        "nama": "Utue",
+                        "kode_adm4": "11.07.18.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1787,
+                "nama": "Sakti",
+                "kelurahan": [
+                    {
+                        "id": 994,
+                        "nama": "Kota Bakti",
+                        "kode_adm4": "11.07.21.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1786,
+                "nama": "Simpang Tiga",
+                "kelurahan": [
+                    {
+                        "id": 993,
+                        "nama": "Pante",
+                        "kode_adm4": "11.07.19.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1788,
+                "nama": "Tangse",
+                "kelurahan": [
+                    {
+                        "id": 996,
+                        "nama": "Layeun",
+                        "kode_adm4": "11.07.22.2002"
+                    },
+                    {
+                        "id": 995,
+                        "nama": "Pulee",
+                        "kode_adm4": "11.07.22.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1796,
+                "nama": "Tiro\/Truseb",
+                "kelurahan": [
+                    {
+                        "id": 1004,
+                        "nama": "Tiro",
+                        "kode_adm4": "11.07.23.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1797,
+                "nama": "Titeue",
+                "kelurahan": [
+                    {
+                        "id": 1005,
+                        "nama": "Titeue",
+                        "kode_adm4": "11.07.28.2001"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "nama": "Kabupaten Pidie Jaya",
+        "kecamatan": [
+            {
+                "id": 1814,
+                "nama": "Bandar Baru",
+                "kelurahan": [
+                    {
+                        "id": 1092,
+                        "nama": "Baroh Cot",
+                        "kode_adm4": "11.18.08.2004"
+                    },
+                    {
+                        "id": 1090,
+                        "nama": "Gampong Nyong",
+                        "kode_adm4": "11.18.08.2002"
+                    },
+                    {
+                        "id": 1091,
+                        "nama": "Keude Lueng Putu",
+                        "kode_adm4": "11.18.08.2003"
+                    },
+                    {
+                        "id": 1089,
+                        "nama": "Lueng Putu",
+                        "kode_adm4": "11.18.08.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1809,
+                "nama": "Bandar Dua",
+                "kelurahan": [
+                    {
+                        "id": 1073,
+                        "nama": "Alue Sijuek",
+                        "kode_adm4": "11.18.03.2002"
+                    },
+                    {
+                        "id": 1075,
+                        "nama": "Ditiro",
+                        "kode_adm4": "11.18.03.2004"
+                    },
+                    {
+                        "id": 1074,
+                        "nama": "Meunasah Kulam",
+                        "kode_adm4": "11.18.03.2003"
+                    },
+                    {
+                        "id": 1072,
+                        "nama": "Ulee Glee",
+                        "kode_adm4": "11.18.03.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1810,
+                "nama": "Jangka Buya",
+                "kelurahan": [
+                    {
+                        "id": 1076,
+                        "nama": "Keude Jangka Buya",
+                        "kode_adm4": "11.18.04.2001"
+                    },
+                    {
+                        "id": 1077,
+                        "nama": "Kiran Dayah",
+                        "kode_adm4": "11.18.04.2002"
+                    },
+                    {
+                        "id": 1078,
+                        "nama": "Mee Jurong",
+                        "kode_adm4": "11.18.04.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1808,
+                "nama": "Meurah Dua",
+                "kelurahan": [
+                    {
+                        "id": 1069,
+                        "nama": "Dayah Usi",
+                        "kode_adm4": "11.18.02.2002"
+                    },
+                    {
+                        "id": 1070,
+                        "nama": "Lueng Zander",
+                        "kode_adm4": "11.18.02.2003"
+                    },
+                    {
+                        "id": 1068,
+                        "nama": "Meunasah Lhok",
+                        "kode_adm4": "11.18.02.2001"
+                    },
+                    {
+                        "id": 1071,
+                        "nama": "Meunasah Raya",
+                        "kode_adm4": "11.18.02.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1807,
+                "nama": "Meureudu",
+                "kelurahan": [
+                    {
+                        "id": 1062,
+                        "nama": "Kota Meureudu",
+                        "kode_adm4": "11.18.01.2001"
+                    },
+                    {
+                        "id": 1067,
+                        "nama": "Kudrang",
+                        "kode_adm4": "11.18.01.2006"
+                    },
+                    {
+                        "id": 1066,
+                        "nama": "Manyang",
+                        "kode_adm4": "11.18.01.2005"
+                    },
+                    {
+                        "id": 1064,
+                        "nama": "Mesjid Tuha",
+                        "kode_adm4": "11.18.01.2003"
+                    },
+                    {
+                        "id": 1065,
+                        "nama": "Pohroh",
+                        "kode_adm4": "11.18.01.2004"
+                    },
+                    {
+                        "id": 1063,
+                        "nama": "Rungkom",
+                        "kode_adm4": "11.18.01.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1813,
+                "nama": "Panteraja",
+                "kelurahan": [
+                    {
+                        "id": 1086,
+                        "nama": "Keude Panteraja",
+                        "kode_adm4": "11.18.07.2001"
+                    },
+                    {
+                        "id": 1088,
+                        "nama": "Muko Kuthang",
+                        "kode_adm4": "11.18.07.2003"
+                    },
+                    {
+                        "id": 1087,
+                        "nama": "Peuno",
+                        "kode_adm4": "11.18.07.2002"
+                    }
+                ]
+            },
+            {
+                "id": 1812,
+                "nama": "Trienggadeng",
+                "kelurahan": [
+                    {
+                        "id": 1082,
+                        "nama": "Keude Trienggadeng",
+                        "kode_adm4": "11.18.06.2001"
+                    },
+                    {
+                        "id": 1083,
+                        "nama": "Meucat",
+                        "kode_adm4": "11.18.06.2002"
+                    },
+                    {
+                        "id": 1084,
+                        "nama": "Pangwa",
+                        "kode_adm4": "11.18.06.2003"
+                    },
+                    {
+                        "id": 1085,
+                        "nama": "Peulandok Tunong",
+                        "kode_adm4": "11.18.06.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1811,
+                "nama": "Ulim",
+                "kelurahan": [
+                    {
+                        "id": 1079,
+                        "nama": "Keude Ulim",
+                        "kode_adm4": "11.18.05.2001"
+                    },
+                    {
+                        "id": 1081,
+                        "nama": "Meunasah Paya",
+                        "kode_adm4": "11.18.05.2003"
+                    },
+                    {
+                        "id": 1080,
+                        "nama": "Tijien Daboh",
+                        "kode_adm4": "11.18.05.2002"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nama": "Kota Banda Aceh",
+        "kecamatan": [
+            {
+                "id": 1824,
+                "nama": "Baiturrahman",
+                "kelurahan": [
+                    {
+                        "id": 1220,
+                        "nama": "Ateuk Deah Tanoh",
+                        "kode_adm4": "11.71.01.2007"
+                    },
+                    {
+                        "id": 1221,
+                        "nama": "Ateuk Jawo",
+                        "kode_adm4": "11.71.01.2008"
+                    },
+                    {
+                        "id": 1222,
+                        "nama": "Ateuk Munjeng",
+                        "kode_adm4": "11.71.01.2009"
+                    },
+                    {
+                        "id": 1223,
+                        "nama": "Ateuk Pahlawan",
+                        "kode_adm4": "11.71.01.2006"
+                    },
+                    {
+                        "id": 1224,
+                        "nama": "Neusu Aceh",
+                        "kode_adm4": "11.71.01.2002"
+                    },
+                    {
+                        "id": 1225,
+                        "nama": "Neusu Jaya",
+                        "kode_adm4": "11.71.01.2003"
+                    },
+                    {
+                        "id": 1226,
+                        "nama": "Peuniti",
+                        "kode_adm4": "11.71.01.2004"
+                    },
+                    {
+                        "id": 1227,
+                        "nama": "Seutui",
+                        "kode_adm4": "11.71.01.2005"
+                    },
+                    {
+                        "id": 1228,
+                        "nama": "Sukaramai",
+                        "kode_adm4": "11.71.01.2010"
+                    }
+                ]
+            },
+            {
+                "id": 1830,
+                "nama": "Banda Raya",
+                "kelurahan": [
+                    {
+                        "id": 1270,
+                        "nama": "Geuceu Iniem",
+                        "kode_adm4": "11.71.07.2003"
+                    },
+                    {
+                        "id": 1268,
+                        "nama": "Geuceu Kayee Jato",
+                        "kode_adm4": "11.71.07.2001"
+                    },
+                    {
+                        "id": 1269,
+                        "nama": "Geuceu Komplek",
+                        "kode_adm4": "11.71.07.2002"
+                    },
+                    {
+                        "id": 1271,
+                        "nama": "Geuceu Meunara",
+                        "kode_adm4": "11.71.07.2004"
+                    },
+                    {
+                        "id": 1272,
+                        "nama": "Lam Ara",
+                        "kode_adm4": "11.71.07.2005"
+                    },
+                    {
+                        "id": 1273,
+                        "nama": "Lamlagang",
+                        "kode_adm4": "11.71.07.2006"
+                    },
+                    {
+                        "id": 1274,
+                        "nama": "Lhong Cut",
+                        "kode_adm4": "11.71.07.2007"
+                    },
+                    {
+                        "id": 1275,
+                        "nama": "Lhong Raya",
+                        "kode_adm4": "11.71.07.2008"
+                    },
+                    {
+                        "id": 1277,
+                        "nama": "Mibo",
+                        "kode_adm4": "11.71.07.2010"
+                    },
+                    {
+                        "id": 1276,
+                        "nama": "Peunyerat",
+                        "kode_adm4": "11.71.07.2009"
+                    }
+                ]
+            },
+            {
+                "id": 1831,
+                "nama": "Jaya Baru",
+                "kelurahan": [
+                    {
+                        "id": 1278,
+                        "nama": "Bitai",
+                        "kode_adm4": "11.71.08.2001"
+                    },
+                    {
+                        "id": 1279,
+                        "nama": "Empetrieng",
+                        "kode_adm4": "11.71.08.2002"
+                    },
+                    {
+                        "id": 1280,
+                        "nama": "Lampoh Daya",
+                        "kode_adm4": "11.71.08.2003"
+                    },
+                    {
+                        "id": 1281,
+                        "nama": "Lamteumen Barat",
+                        "kode_adm4": "11.71.08.2004"
+                    },
+                    {
+                        "id": 1282,
+                        "nama": "Lamteumen Timur",
+                        "kode_adm4": "11.71.08.2005"
+                    },
+                    {
+                        "id": 1283,
+                        "nama": "Punge Blang Cut",
+                        "kode_adm4": "11.71.08.2006"
+                    },
+                    {
+                        "id": 1284,
+                        "nama": "Ulee Pata",
+                        "kode_adm4": "11.71.08.2007"
+                    }
+                ]
+            },
+            {
+                "id": 1825,
+                "nama": "Kuta Alam",
+                "kelurahan": [
+                    {
+                        "id": 1234,
+                        "nama": "Bandar Baru",
+                        "kode_adm4": "11.71.02.2006"
+                    },
+                    {
+                        "id": 1229,
+                        "nama": "Beurawe",
+                        "kode_adm4": "11.71.02.2004"
+                    },
+                    {
+                        "id": 1230,
+                        "nama": "Kuta Alam",
+                        "kode_adm4": "11.71.02.2002"
+                    },
+                    {
+                        "id": 1236,
+                        "nama": "Laksana",
+                        "kode_adm4": "11.71.02.2008"
+                    },
+                    {
+                        "id": 1231,
+                        "nama": "Lambaro Skep",
+                        "kode_adm4": "11.71.02.2003"
+                    },
+                    {
+                        "id": 1235,
+                        "nama": "Lampulo",
+                        "kode_adm4": "11.71.02.2007"
+                    },
+                    {
+                        "id": 1232,
+                        "nama": "Mulia",
+                        "kode_adm4": "11.71.02.2005"
+                    },
+                    {
+                        "id": 1233,
+                        "nama": "Peunayong",
+                        "kode_adm4": "11.71.02.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1829,
+                "nama": "Kuta Raja",
+                "kelurahan": [
+                    {
+                        "id": 1266,
+                        "nama": "Gampong Jawa",
+                        "kode_adm4": "11.71.06.2005"
+                    },
+                    {
+                        "id": 1267,
+                        "nama": "Gampong Pande",
+                        "kode_adm4": "11.71.06.2006"
+                    },
+                    {
+                        "id": 1262,
+                        "nama": "Keudah",
+                        "kode_adm4": "11.71.06.2001"
+                    },
+                    {
+                        "id": 1264,
+                        "nama": "Lampaseh Kota",
+                        "kode_adm4": "11.71.06.2003"
+                    },
+                    {
+                        "id": 1263,
+                        "nama": "Merduati",
+                        "kode_adm4": "11.71.06.2002"
+                    },
+                    {
+                        "id": 1265,
+                        "nama": "Peulanggahan",
+                        "kode_adm4": "11.71.06.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1828,
+                "nama": "Lueng Bata",
+                "kelurahan": [
+                    {
+                        "id": 1255,
+                        "nama": "Batoh",
+                        "kode_adm4": "11.71.05.2002"
+                    },
+                    {
+                        "id": 1261,
+                        "nama": "Blang Cut",
+                        "kode_adm4": "11.71.05.2008"
+                    },
+                    {
+                        "id": 1256,
+                        "nama": "Cot Mesjid",
+                        "kode_adm4": "11.71.05.2003"
+                    },
+                    {
+                        "id": 1257,
+                        "nama": "Lampaloh",
+                        "kode_adm4": "11.71.05.2004"
+                    },
+                    {
+                        "id": 1258,
+                        "nama": "Lamseupeung",
+                        "kode_adm4": "11.71.05.2005"
+                    },
+                    {
+                        "id": 1254,
+                        "nama": "Lueng Bata",
+                        "kode_adm4": "11.71.05.2001"
+                    },
+                    {
+                        "id": 1259,
+                        "nama": "Panteriek",
+                        "kode_adm4": "11.71.05.2006"
+                    },
+                    {
+                        "id": 1260,
+                        "nama": "Sukadamai",
+                        "kode_adm4": "11.71.05.2007"
+                    }
+                ]
+            },
+            {
+                "id": 1826,
+                "nama": "Meuraxa",
+                "kelurahan": [
+                    {
+                        "id": 1243,
+                        "nama": "Blang Oi",
+                        "kode_adm4": "11.71.03.2007"
+                    },
+                    {
+                        "id": 1241,
+                        "nama": "Cot Lamkuewe",
+                        "kode_adm4": "11.71.03.2005"
+                    },
+                    {
+                        "id": 1239,
+                        "nama": "Deah Baro",
+                        "kode_adm4": "11.71.03.2003"
+                    },
+                    {
+                        "id": 1238,
+                        "nama": "Deah Glumpang",
+                        "kode_adm4": "11.71.03.2002"
+                    },
+                    {
+                        "id": 1240,
+                        "nama": "Lambung",
+                        "kode_adm4": "11.71.03.2004"
+                    },
+                    {
+                        "id": 1244,
+                        "nama": "Punge Ujong",
+                        "kode_adm4": "11.71.03.2008"
+                    },
+                    {
+                        "id": 1242,
+                        "nama": "Surien",
+                        "kode_adm4": "11.71.03.2006"
+                    },
+                    {
+                        "id": 1237,
+                        "nama": "Ulee Lheue",
+                        "kode_adm4": "11.71.03.2001"
+                    }
+                ]
+            },
+            {
+                "id": 1827,
+                "nama": "Syiah Kuala",
+                "kelurahan": [
+                    {
+                        "id": 1245,
+                        "nama": "Alue Naga",
+                        "kode_adm4": "11.71.04.2001"
+                    },
+                    {
+                        "id": 1246,
+                        "nama": "Deah Raya",
+                        "kode_adm4": "11.71.04.2002"
+                    },
+                    {
+                        "id": 1251,
+                        "nama": "Ie Masen Kaye Adang",
+                        "kode_adm4": "11.71.04.2007"
+                    },
+                    {
+                        "id": 1247,
+                        "nama": "Jeulingke",
+                        "kode_adm4": "11.71.04.2003"
+                    },
+                    {
+                        "id": 1248,
+                        "nama": "Kopelma Darussalam",
+                        "kode_adm4": "11.71.04.2004"
+                    },
+                    {
+                        "id": 1249,
+                        "nama": "Lamgugob",
+                        "kode_adm4": "11.71.04.2005"
+                    },
+                    {
+                        "id": 1253,
+                        "nama": "Peurada",
+                        "kode_adm4": "11.71.04.2009"
+                    },
+                    {
+                        "id": 1252,
+                        "nama": "Rukoh",
+                        "kode_adm4": "11.71.04.2008"
+                    },
+                    {
+                        "id": 1250,
+                        "nama": "Tibang",
+                        "kode_adm4": "11.71.04.2006"
+                    }
+                ]
+            },
+            {
+                "id": 1832,
+                "nama": "Ulee Kareng",
+                "kelurahan": [
+                    {
+                        "id": 1285,
+                        "nama": "Ceurih",
+                        "kode_adm4": "11.71.09.2001"
+                    },
+                    {
+                        "id": 1286,
+                        "nama": "Doi",
+                        "kode_adm4": "11.71.09.2002"
+                    },
+                    {
+                        "id": 1287,
+                        "nama": "Ie Masen Ulee Kareng",
+                        "kode_adm4": "11.71.09.2003"
+                    },
+                    {
+                        "id": 1288,
+                        "nama": "Ilie",
+                        "kode_adm4": "11.71.09.2004"
+                    },
+                    {
+                        "id": 1289,
+                        "nama": "Lamteh",
+                        "kode_adm4": "11.71.09.2005"
+                    },
+                    {
+                        "id": 1290,
+                        "nama": "Pango Deah",
+                        "kode_adm4": "11.71.09.2006"
+                    },
+                    {
+                        "id": 1291,
+                        "nama": "Pango Raya",
+                        "kode_adm4": "11.71.09.2007"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "nama": "Kota Langsa",
+        "kecamatan": [
+            {
+                "id": 1834,
+                "nama": "Langsa Barat",
+                "kelurahan": [
+                    {
+                        "id": 1362,
+                        "nama": "Kuala Langsa",
+                        "kode_adm4": "11.74.02.2007"
+                    },
+                    {
+                        "id": 1357,
+                        "nama": "Lhok Banie",
+                        "kode_adm4": "11.74.02.2002"
+                    },
+                    {
+                        "id": 1356,
+                        "nama": "Matang Seulimeng",
+                        "kode_adm4": "11.74.02.2001"
+                    },
+                    {
+                        "id": 1358,
+                        "nama": "Paya Bujok Beuramoe",
+                        "kode_adm4": "11.74.02.2003"
+                    },
+                    {
+                        "id": 1364,
+                        "nama": "Seriget",
+                        "kode_adm4": "11.74.02.2009"
+                    },
+                    {
+                        "id": 1359,
+                        "nama": "Sungai Pauh",
+                        "kode_adm4": "11.74.02.2004"
+                    },
+                    {
+                        "id": 1360,
+                        "nama": "Sungai Pauh Pusaka",
+                        "kode_adm4": "11.74.02.2005"
+                    },
+                    {
+                        "id": 1361,
+                        "nama": "Sungai Pauh Tanjat",
+                        "kode_adm4": "11.74.02.2006"
+                    },
+                    {
+                        "id": 1363,
+                        "nama": "Telaga Laju",
+                        "kode_adm4": "11.74.02.2008"
+                    }
+                ]
+            },
+            {
+                "id": 1835,
+                "nama": "Langsa Baro",
+                "kelurahan": [
+                    {
+                        "id": 1369,
+                        "nama": "Alue Dua",
+                        "kode_adm4": "11.74.05.2005"
+                    },
+                    {
+                        "id": 1373,
+                        "nama": "Alue Dua Bakaran Batee",
+                        "kode_adm4": "11.74.05.2009"
+                    },
+                    {
+                        "id": 1367,
+                        "nama": "Birem Puntong",
+                        "kode_adm4": "11.74.05.2003"
+                    },
+                    {
+                        "id": 1368,
+                        "nama": "Geudubang Jawa",
+                        "kode_adm4": "11.74.05.2004"
+                    },
+                    {
+                        "id": 1371,
+                        "nama": "Karang Anyar",
+                        "kode_adm4": "11.74.05.2007"
+                    },
+                    {
+                        "id": 1370,
+                        "nama": "Lengkong",
+                        "kode_adm4": "11.74.05.2006"
+                    },
+                    {
+                        "id": 1366,
+                        "nama": "Paya Bujok Seuleumak",
+                        "kode_adm4": "11.74.05.2002"
+                    },
+                    {
+                        "id": 1365,
+                        "nama": "Paya Bujok Tunong",
+                        "kode_adm4": "11.74.05.2001"
+                    },
+                    {
+                        "id": 1374,
+                        "nama": "Pondok Kelapa",
+                        "kode_adm4": "11.74.05.2010"
+                    },
+                    {
+                        "id": 1372,
+                        "nama": "Timbang Langsa",
+                        "kode_adm4": "11.74.05.2008"
+                    }
+                ]
+            },
+            {
+                "id": 1833,
+                "nama": "Langsa Kota",
+                "kelurahan": [
+                    {
+                        "id": 1354,
+                        "nama": "Alue Beurawe",
+                        "kode_adm4": "11.74.01.2008"
+                    },
+                    {
+                        "id": 1349,
+                        "nama": "Gampong Blang",
+                        "kode_adm4": "11.74.01.2003"
+                    },
+                    {
+                        "id": 1353,
+                        "nama": "Gampong Daulat",
+                        "kode_adm4": "11.74.01.2007"
+                    },
+                    {
+                        "id": 1348,
+                        "nama": "Gampong Jawa",
+                        "kode_adm4": "11.74.01.2002"
+                    },
+                    {
+                        "id": 1351,
+                        "nama": "Gampong Meutia",
+                        "kode_adm4": "11.74.01.2005"
+                    },
+                    {
+                        "id": 1352,
+                        "nama": "Gampong Teungoh",
+                        "kode_adm4": "11.74.01.2006"
+                    },
+                    {
+                        "id": 1355,
+                        "nama": "Paya Bujok Blang Pase",
+                        "kode_adm4": "11.74.01.2009"
+                    },
+                    {
+                        "id": 1347,
+                        "nama": "Peukan Langsa",
+                        "kode_adm4": "11.74.01.2001"
+                    },
+                    {
+                        "id": 1350,
+                        "nama": "Tualang Teungoh",
+                        "kode_adm4": "11.74.01.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1836,
+                "nama": "Langsa Lama",
+                "kelurahan": [
+                    {
+                        "id": 1382,
+                        "nama": "Asam Petitik",
+                        "kode_adm4": "11.74.04.2008"
+                    },
+                    {
+                        "id": 1384,
+                        "nama": "Baroh Langsa Lama",
+                        "kode_adm4": "11.74.04.2010"
+                    },
+                    {
+                        "id": 1383,
+                        "nama": "Batu Rhat",
+                        "kode_adm4": "11.74.04.2009"
+                    },
+                    {
+                        "id": 1375,
+                        "nama": "Meurandeh",
+                        "kode_adm4": "11.74.04.2001"
+                    },
+                    {
+                        "id": 1376,
+                        "nama": "Meurandeh Dayah",
+                        "kode_adm4": "11.74.04.2002"
+                    },
+                    {
+                        "id": 1377,
+                        "nama": "Meurandeh Teungoh",
+                        "kode_adm4": "11.74.04.2003"
+                    },
+                    {
+                        "id": 1380,
+                        "nama": "Pondok Keumuning",
+                        "kode_adm4": "11.74.04.2006"
+                    },
+                    {
+                        "id": 1381,
+                        "nama": "Selalah",
+                        "kode_adm4": "11.74.04.2007"
+                    },
+                    {
+                        "id": 1378,
+                        "nama": "Seulemak",
+                        "kode_adm4": "11.74.04.2004"
+                    },
+                    {
+                        "id": 1379,
+                        "nama": "Sidodadi",
+                        "kode_adm4": "11.74.04.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1837,
+                "nama": "Langsa Timur",
+                "kelurahan": [
+                    {
+                        "id": 1396,
+                        "nama": "Alue Merbau",
+                        "kode_adm4": "11.74.03.2015"
+                    },
+                    {
+                        "id": 1385,
+                        "nama": "Alue Pineung",
+                        "kode_adm4": "11.74.03.2001"
+                    },
+                    {
+                        "id": 1386,
+                        "nama": "Alue Pineung Timue",
+                        "kode_adm4": "11.74.03.2002"
+                    },
+                    {
+                        "id": 1391,
+                        "nama": "Buket Meutuah",
+                        "kode_adm4": "11.74.03.2007"
+                    },
+                    {
+                        "id": 1390,
+                        "nama": "Buket Rumiya",
+                        "kode_adm4": "11.74.03.2006"
+                    },
+                    {
+                        "id": 1388,
+                        "nama": "Cinta Raja",
+                        "kode_adm4": "11.74.03.2004"
+                    },
+                    {
+                        "id": 1389,
+                        "nama": "Kapa",
+                        "kode_adm4": "11.74.03.2005"
+                    },
+                    {
+                        "id": 1387,
+                        "nama": "Matang Cengal",
+                        "kode_adm4": "11.74.03.2003"
+                    },
+                    {
+                        "id": 1395,
+                        "nama": "Medang Ara",
+                        "kode_adm4": "11.74.03.2012"
+                    },
+                    {
+                        "id": 1393,
+                        "nama": "Seunebok Antara",
+                        "kode_adm4": "11.74.03.2009"
+                    },
+                    {
+                        "id": 1392,
+                        "nama": "Suka Rakyat",
+                        "kode_adm4": "11.74.03.2008"
+                    },
+                    {
+                        "id": 1394,
+                        "nama": "Sungai Lueng",
+                        "kode_adm4": "11.74.03.2010"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "nama": "Kota Lhokseumawe",
+        "kecamatan": [
+            {
+                "id": 1838,
+                "nama": "Banda Sakti",
+                "kelurahan": [
+                    {
+                        "id": 1418,
+                        "nama": "Banda Masen",
+                        "kode_adm4": "11.73.02.2012"
+                    },
+                    {
+                        "id": 1426,
+                        "nama": "Cot Trieng",
+                        "kode_adm4": "11.73.02.2020"
+                    },
+                    {
+                        "id": 1417,
+                        "nama": "Hagu Barat Laut",
+                        "kode_adm4": "11.73.02.2011"
+                    },
+                    {
+                        "id": 1416,
+                        "nama": "Hagu Selatan",
+                        "kode_adm4": "11.73.02.2010"
+                    },
+                    {
+                        "id": 1419,
+                        "nama": "Hagu Teungoh",
+                        "kode_adm4": "11.73.02.2013"
+                    },
+                    {
+                        "id": 1423,
+                        "nama": "Kampung Jawa Baru",
+                        "kode_adm4": "11.73.02.2017"
+                    },
+                    {
+                        "id": 1425,
+                        "nama": "Kampung Jawa Lhokseumawe",
+                        "kode_adm4": "11.73.02.2019"
+                    },
+                    {
+                        "id": 1420,
+                        "nama": "Keude Aceh",
+                        "kode_adm4": "11.73.02.2014"
+                    },
+                    {
+                        "id": 1422,
+                        "nama": "Kuta Blang",
+                        "kode_adm4": "11.73.02.2016"
+                    },
+                    {
+                        "id": 1413,
+                        "nama": "Lancang Garam",
+                        "kode_adm4": "11.73.02.2006"
+                    },
+                    {
+                        "id": 1412,
+                        "nama": "Lhokseumawe",
+                        "kode_adm4": "11.73.02.2004"
+                    },
+                    {
+                        "id": 1415,
+                        "nama": "Mon Geudong",
+                        "kode_adm4": "11.73.02.2008"
+                    },
+                    {
+                        "id": 1410,
+                        "nama": "Pusong Baru",
+                        "kode_adm4": "11.73.02.2001"
+                    },
+                    {
+                        "id": 1411,
+                        "nama": "Pusong Lhokseumawe",
+                        "kode_adm4": "11.73.02.2002"
+                    },
+                    {
+                        "id": 1414,
+                        "nama": "Simpang Empat",
+                        "kode_adm4": "11.73.02.2007"
+                    },
+                    {
+                        "id": 1421,
+                        "nama": "Tumpok Teungoh",
+                        "kode_adm4": "11.73.02.2015"
+                    },
+                    {
+                        "id": 1424,
+                        "nama": "Ujong Blang",
+                        "kode_adm4": "11.73.02.2018"
+                    }
+                ]
+            },
+            {
+                "id": 1840,
+                "nama": "Blang Mangat",
+                "kelurahan": [
+                    {
+                        "id": 1456,
+                        "nama": "Asan Kareung",
+                        "kode_adm4": "11.73.03.2013"
+                    },
+                    {
+                        "id": 1452,
+                        "nama": "Baloi",
+                        "kode_adm4": "11.73.03.2009"
+                    },
+                    {
+                        "id": 1446,
+                        "nama": "Blang Buloh",
+                        "kode_adm4": "11.73.03.2003"
+                    },
+                    {
+                        "id": 1447,
+                        "nama": "Blang Cut",
+                        "kode_adm4": "11.73.03.2004"
+                    },
+                    {
+                        "id": 1448,
+                        "nama": "Blang Punteuet",
+                        "kode_adm4": "11.73.03.2005"
+                    },
+                    {
+                        "id": 1458,
+                        "nama": "Blang Weu Baroh",
+                        "kode_adm4": "11.73.03.2015"
+                    },
+                    {
+                        "id": 1459,
+                        "nama": "Blang Weu Panjou",
+                        "kode_adm4": "11.73.03.2016"
+                    },
+                    {
+                        "id": 1453,
+                        "nama": "Jeulikat",
+                        "kode_adm4": "11.73.03.2010"
+                    },
+                    {
+                        "id": 1444,
+                        "nama": "Keude Punteuet",
+                        "kode_adm4": "11.73.03.2001"
+                    },
+                    {
+                        "id": 1457,
+                        "nama": "Kuala",
+                        "kode_adm4": "11.73.03.2014"
+                    },
+                    {
+                        "id": 1460,
+                        "nama": "Kumbang Punteuet",
+                        "kode_adm4": "11.73.03.2017"
+                    },
+                    {
+                        "id": 1455,
+                        "nama": "Mane Kujrun",
+                        "kode_adm4": "11.73.03.2012"
+                    },
+                    {
+                        "id": 1445,
+                        "nama": "Mesjid Punteuet",
+                        "kode_adm4": "11.73.03.2002"
+                    },
+                    {
+                        "id": 1450,
+                        "nama": "Rayeuk Kareung",
+                        "kode_adm4": "11.73.03.2007"
+                    },
+                    {
+                        "id": 1454,
+                        "nama": "Seuneubok",
+                        "kode_adm4": "11.73.03.2011"
+                    },
+                    {
+                        "id": 1461,
+                        "nama": "Teungoh",
+                        "kode_adm4": "11.73.03.2018"
+                    },
+                    {
+                        "id": 1451,
+                        "nama": "Tunku Puuk",
+                        "kode_adm4": "11.73.03.2008"
+                    },
+                    {
+                        "id": 1449,
+                        "nama": "Ulee Blang Mane",
+                        "kode_adm4": "11.73.03.2006"
+                    }
+                ]
+            },
+            {
+                "id": 1839,
+                "nama": "Muara Dua",
+                "kelurahan": [
+                    {
+                        "id": 1441,
+                        "nama": "Alue Awe",
+                        "kode_adm4": "11.73.01.2015"
+                    },
+                    {
+                        "id": 1442,
+                        "nama": "Blang Cut",
+                        "kode_adm4": "11.73.01.2016"
+                    },
+                    {
+                        "id": 1443,
+                        "nama": "Blang Panyan",
+                        "kode_adm4": "11.73.01.2017"
+                    },
+                    {
+                        "id": 1431,
+                        "nama": "Blang Poroh",
+                        "kode_adm4": "11.73.01.2005"
+                    },
+                    {
+                        "id": 1433,
+                        "nama": "Cot Girek Peusangan",
+                        "kode_adm4": "11.73.01.2007"
+                    },
+                    {
+                        "id": 1438,
+                        "nama": "Cut Mamplam",
+                        "kode_adm4": "11.73.01.2012"
+                    },
+                    {
+                        "id": 1427,
+                        "nama": "Keude Cunda",
+                        "kode_adm4": "11.73.01.2001"
+                    },
+                    {
+                        "id": 1434,
+                        "nama": "Lhok Mon Puteh",
+                        "kode_adm4": "11.73.01.2008"
+                    },
+                    {
+                        "id": 1437,
+                        "nama": "Meunasah Alue",
+                        "kode_adm4": "11.73.01.2011"
+                    },
+                    {
+                        "id": 1435,
+                        "nama": "Meunasah Blang",
+                        "kode_adm4": "11.73.01.2009"
+                    },
+                    {
+                        "id": 1436,
+                        "nama": "Meunasah Manyang",
+                        "kode_adm4": "11.73.01.2010"
+                    },
+                    {
+                        "id": 1432,
+                        "nama": "Meunasah Mee",
+                        "kode_adm4": "11.73.01.2006"
+                    },
+                    {
+                        "id": 1430,
+                        "nama": "Meunasah Mesjid",
+                        "kode_adm4": "11.73.01.2004"
+                    },
+                    {
+                        "id": 1440,
+                        "nama": "Paloh Batee",
+                        "kode_adm4": "11.73.01.2014"
+                    },
+                    {
+                        "id": 1428,
+                        "nama": "Panggoi",
+                        "kode_adm4": "11.73.01.2002"
+                    },
+                    {
+                        "id": 1439,
+                        "nama": "Paya Punteuet",
+                        "kode_adm4": "11.73.01.2013"
+                    },
+                    {
+                        "id": 1429,
+                        "nama": "Uteunkot",
+                        "kode_adm4": "11.73.01.2003"
+                    }
+                ]
+            },
+            {
+                "id": 1841,
+                "nama": "Muara Satu",
+                "kelurahan": [
+                    {
+                        "id": 1462,
+                        "nama": "Batuphat Barat",
+                        "kode_adm4": "11.73.04.2001"
+                    },
+                    {
+                        "id": 1463,
+                        "nama": "Batuphat Timur",
+                        "kode_adm4": "11.73.04.2002"
+                    },
+                    {
+                        "id": 1468,
+                        "nama": "Blang Naleung Mameh",
+                        "kode_adm4": "11.73.04.2007"
+                    },
+                    {
+                        "id": 1464,
+                        "nama": "Blang Pulo",
+                        "kode_adm4": "11.73.04.2003"
+                    },
+                    {
+                        "id": 1470,
+                        "nama": "Cot Trieng",
+                        "kode_adm4": "11.73.04.2009"
+                    },
+                    {
+                        "id": 1471,
+                        "nama": "Mampree",
+                        "kode_adm4": "11.73.04.2010"
+                    },
+                    {
+                        "id": 1465,
+                        "nama": "Meuria Paloh",
+                        "kode_adm4": "11.73.04.2004"
+                    },
+                    {
+                        "id": 1466,
+                        "nama": "Padang Sakti",
+                        "kode_adm4": "11.73.04.2005"
+                    },
+                    {
+                        "id": 1467,
+                        "nama": "Paloh Punti",
+                        "kode_adm4": "11.73.04.2006"
+                    },
+                    {
+                        "id": 1469,
+                        "nama": "Ujong Pacu",
+                        "kode_adm4": "11.73.04.2008"
+                    },
+                    {
+                        "id": 1472,
+                        "nama": "Uteun Bayi",
+                        "kode_adm4": "11.73.04.2011"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "nama": "Kota Sabang",
+        "kecamatan": [
+            {
+                "id": 1846,
+                "nama": "Sukajaya",
+                "kelurahan": [
+                    {
+                        "id": 1512,
+                        "nama": "Anoi Itam",
+                        "kode_adm4": "11.72.02.2004"
+                    },
+                    {
+                        "id": 1514,
+                        "nama": "Balohan",
+                        "kode_adm4": "11.72.02.2006"
+                    },
+                    {
+                        "id": 1511,
+                        "nama": "Cot Abeuk",
+                        "kode_adm4": "11.72.02.2003"
+                    },
+                    {
+                        "id": 1510,
+                        "nama": "Cot Bau",
+                        "kode_adm4": "11.72.02.2002"
+                    },
+                    {
+                        "id": 1509,
+                        "nama": "Ie Meulee",
+                        "kode_adm4": "11.72.02.2001"
+                    },
+                    {
+                        "id": 1515,
+                        "nama": "Jaboi",
+                        "kode_adm4": "11.72.02.2007"
+                    },
+                    {
+                        "id": 1516,
+                        "nama": "Keuneukai",
+                        "kode_adm4": "11.72.02.2008"
+                    },
+                    {
+                        "id": 1513,
+                        "nama": "Ujong Kareung",
+                        "kode_adm4": "11.72.02.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1845,
+                "nama": "Sukakarya",
+                "kelurahan": [
+                    {
+                        "id": 1506,
+                        "nama": "Aneuk Laot",
+                        "kode_adm4": "11.72.01.2003"
+                    },
+                    {
+                        "id": 1507,
+                        "nama": "Krueng Raya",
+                        "kode_adm4": "11.72.01.2004"
+                    },
+                    {
+                        "id": 1504,
+                        "nama": "Kuta Ateuh",
+                        "kode_adm4": "11.72.01.2001"
+                    },
+                    {
+                        "id": 1505,
+                        "nama": "Kuta Barat",
+                        "kode_adm4": "11.72.01.2002"
+                    },
+                    {
+                        "id": 1508,
+                        "nama": "Paya Seunara",
+                        "kode_adm4": "11.72.01.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1847,
+                "nama": "Sukamakmur",
+                "kelurahan": [
+                    {
+                        "id": 1518,
+                        "nama": "Batee Shok",
+                        "kode_adm4": "11.72.03.2002"
+                    },
+                    {
+                        "id": 1517,
+                        "nama": "Iboih",
+                        "kode_adm4": "11.72.03.2001"
+                    },
+                    {
+                        "id": 1519,
+                        "nama": "Paya",
+                        "kode_adm4": "11.72.03.2003"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "nama": "Kota Subulussalam",
+        "kecamatan": [
+            {
+                "id": 1852,
+                "nama": "Longkib",
+                "kelurahan": [
+                    {
+                        "id": 1583,
+                        "nama": "Bangun Sari",
+                        "kode_adm4": "11.75.05.2004"
+                    },
+                    {
+                        "id": 1581,
+                        "nama": "Darul Aman",
+                        "kode_adm4": "11.75.05.2002"
+                    },
+                    {
+                        "id": 1580,
+                        "nama": "Longkib",
+                        "kode_adm4": "11.75.05.2001"
+                    },
+                    {
+                        "id": 1582,
+                        "nama": "Rantau Panjang",
+                        "kode_adm4": "11.75.05.2003"
+                    },
+                    {
+                        "id": 1585,
+                        "nama": "Sepang",
+                        "kode_adm4": "11.75.05.2006"
+                    },
+                    {
+                        "id": 1584,
+                        "nama": "Sikerabang",
+                        "kode_adm4": "11.75.05.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1849,
+                "nama": "Penanggalan",
+                "kelurahan": [
+                    {
+                        "id": 1556,
+                        "nama": "Cepu",
+                        "kode_adm4": "11.75.02.2009"
+                    },
+                    {
+                        "id": 1557,
+                        "nama": "Jontor",
+                        "kode_adm4": "11.75.02.2010"
+                    },
+                    {
+                        "id": 1554,
+                        "nama": "Kuta Cepu",
+                        "kode_adm4": "11.75.02.2007"
+                    },
+                    {
+                        "id": 1550,
+                        "nama": "Lae Bersih",
+                        "kode_adm4": "11.75.02.2003"
+                    },
+                    {
+                        "id": 1549,
+                        "nama": "Lae Ikan",
+                        "kode_adm4": "11.75.02.2002"
+                    },
+                    {
+                        "id": 1551,
+                        "nama": "Lae Kering",
+                        "kode_adm4": "11.75.02.2004"
+                    },
+                    {
+                        "id": 1555,
+                        "nama": "Penampean",
+                        "kode_adm4": "11.75.02.2008"
+                    },
+                    {
+                        "id": 1548,
+                        "nama": "Penanggalan",
+                        "kode_adm4": "11.75.02.2001"
+                    },
+                    {
+                        "id": 1553,
+                        "nama": "Penanggalan Barat",
+                        "kode_adm4": "11.75.02.2006"
+                    },
+                    {
+                        "id": 1552,
+                        "nama": "Penanggalan Timur",
+                        "kode_adm4": "11.75.02.2005"
+                    }
+                ]
+            },
+            {
+                "id": 1850,
+                "nama": "Rundeng",
+                "kelurahan": [
+                    {
+                        "id": 1560,
+                        "nama": "Belukur Makmur",
+                        "kode_adm4": "11.75.03.2003"
+                    },
+                    {
+                        "id": 1568,
+                        "nama": "Dah",
+                        "kode_adm4": "11.75.03.2011"
+                    },
+                    {
+                        "id": 1567,
+                        "nama": "Harapan Baru",
+                        "kode_adm4": "11.75.03.2010"
+                    },
+                    {
+                        "id": 1559,
+                        "nama": "Kampong Badar",
+                        "kode_adm4": "11.75.03.2002"
+                    },
+                    {
+                        "id": 1564,
+                        "nama": "Mandilam",
+                        "kode_adm4": "11.75.03.2007"
+                    },
+                    {
+                        "id": 1563,
+                        "nama": "Oboh",
+                        "kode_adm4": "11.75.03.2006"
+                    },
+                    {
+                        "id": 1558,
+                        "nama": "Pasar Rundeng",
+                        "kode_adm4": "11.75.03.2001"
+                    },
+                    {
+                        "id": 1562,
+                        "nama": "Sibungke",
+                        "kode_adm4": "11.75.03.2005"
+                    },
+                    {
+                        "id": 1569,
+                        "nama": "Siperkas",
+                        "kode_adm4": "11.75.03.2012"
+                    },
+                    {
+                        "id": 1566,
+                        "nama": "Suka Maju",
+                        "kode_adm4": "11.75.03.2009"
+                    },
+                    {
+                        "id": 1565,
+                        "nama": "Tanah Bara",
+                        "kode_adm4": "11.75.03.2008"
+                    },
+                    {
+                        "id": 1561,
+                        "nama": "Tualang",
+                        "kode_adm4": "11.75.03.2004"
+                    }
+                ]
+            },
+            {
+                "id": 1848,
+                "nama": "Simpang Kiri",
+                "kelurahan": [
+                    {
+                        "id": 1544,
+                        "nama": "Belegen Mulia",
+                        "kode_adm4": "11.75.01.2010"
+                    },
+                    {
+                        "id": 1539,
+                        "nama": "Buluh Dori",
+                        "kode_adm4": "11.75.01.2005"
+                    },
+                    {
+                        "id": 1546,
+                        "nama": "Danau Toba",
+                        "kode_adm4": "11.75.01.2012"
+                    },
+                    {
+                        "id": 1547,
+                        "nama": "Lae Oram",
+                        "kode_adm4": "11.75.01.2013"
+                    },
+                    {
+                        "id": 1542,
+                        "nama": "Makmur Jaya",
+                        "kode_adm4": "11.75.01.2008"
+                    },
+                    {
+                        "id": 1545,
+                        "nama": "Pasir Panjang",
+                        "kode_adm4": "11.75.01.2011"
+                    },
+                    {
+                        "id": 1543,
+                        "nama": "Pegayo",
+                        "kode_adm4": "11.75.01.2009"
+                    },
+                    {
+                        "id": 1535,
+                        "nama": "Subulussalam",
+                        "kode_adm4": "11.75.01.2001"
+                    },
+                    {
+                        "id": 1537,
+                        "nama": "Subulussalam Barat",
+                        "kode_adm4": "11.75.01.2003"
+                    },
+                    {
+                        "id": 1536,
+                        "nama": "Subulussalam Selatan",
+                        "kode_adm4": "11.75.01.2002"
+                    },
+                    {
+                        "id": 1538,
+                        "nama": "Subulussalam Utara",
+                        "kode_adm4": "11.75.01.2004"
+                    },
+                    {
+                        "id": 1541,
+                        "nama": "Suka Makmur",
+                        "kode_adm4": "11.75.01.2007"
+                    },
+                    {
+                        "id": 1540,
+                        "nama": "Tangga Besi",
+                        "kode_adm4": "11.75.01.2006"
+                    }
+                ]
+            },
+            {
+                "id": 1851,
+                "nama": "Sultan Daulat",
+                "kelurahan": [
+                    {
+                        "id": 1573,
+                        "nama": "Batu Napal",
+                        "kode_adm4": "11.75.04.2004"
+                    },
+                    {
+                        "id": 1579,
+                        "nama": "Bunga Tanjung",
+                        "kode_adm4": "11.75.04.2010"
+                    },
+                    {
+                        "id": 1576,
+                        "nama": "Cipare-Pare",
+                        "kode_adm4": "11.75.04.2007"
+                    },
+                    {
+                        "id": 1578,
+                        "nama": "Gunung Bakti",
+                        "kode_adm4": "11.75.04.2009"
+                    },
+                    {
+                        "id": 1570,
+                        "nama": "Jabi-Jabi",
+                        "kode_adm4": "11.75.04.2001"
+                    },
+                    {
+                        "id": 1574,
+                        "nama": "Namo Buaya",
+                        "kode_adm4": "11.75.04.2005"
+                    },
+                    {
+                        "id": 1572,
+                        "nama": "Pasir Belo",
+                        "kode_adm4": "11.75.04.2003"
+                    },
+                    {
+                        "id": 1571,
+                        "nama": "Pulo Kedep",
+                        "kode_adm4": "11.75.04.2002"
+                    },
+                    {
+                        "id": 1575,
+                        "nama": "Singgersing",
+                        "kode_adm4": "11.75.04.2006"
+                    },
+                    {
+                        "id": 1577,
+                        "nama": "Suka Maju",
+                        "kode_adm4": "11.75.04.2008"
+                    }
+                ]
+            }
+        ]
+    }
+]
