@@ -13,6 +13,5 @@ vendor/
 *.log
 npm-debug.log*
 
-# OS Files
-Thumbs.db
-.DS_Store
+# Local PHP (for XAMPP)
+local_php/

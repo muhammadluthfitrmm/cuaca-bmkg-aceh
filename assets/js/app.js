@@ -118,7 +118,7 @@ function switchTab(targetTab) {
    ===================================================================== */
 async function initCascadeWilayah() {
   try {
-    const res = await fetch('api/wilayah.php?type=tree');
+    const res = await fetch('api/wilayah?type=tree');
     const json = await res.json();
     if (json.status !== 'success') throw new Error(json.message);
 
@@ -272,7 +272,7 @@ async function loadWeatherData(kelurahanId) {
   if (elements.btnRefreshWeather) elements.btnRefreshWeather.disabled = true;
 
   try {
-    const res = await fetch(`api/cuaca.php?kelurahan_id=${kelurahanId}`);
+    const res = await fetch(`api/cuaca?kelurahan_id=${kelurahanId}`);
     const json = await res.json();
 
     if (json.status !== 'success') {
@@ -495,7 +495,7 @@ function renderAirQualityChart() {
    ===================================================================== */
 async function loadGempaData() {
   try {
-    const res = await fetch('api/gempa.php');
+    const res = await fetch('api/gempa');
     const json = await res.json();
     
     if (json.status === 'success') {
